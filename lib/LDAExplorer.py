@@ -1,6 +1,7 @@
 #!/Users/davidyerrington/virtualenvs/data/bin/python
 
-import logging, gensim, bz2, os, string, glob, os
+import logging, gensim, bz2, os, string, glob, os, numpy as np, pandas as pd
+from sklearn.preprocessing import scale
 from gensim import corpora, models, similarities
 from nltk.corpus import stopwords
 from os import path
@@ -130,16 +131,22 @@ class LDAExplorer:
             model = lda.LdaModel(corpus=self.corpus, id2word=self.dictionary, num_topics=self.number_of_topics, update_every=1, chunksize=1000, passes=4)
             model.save(self.model_file)
 
-        i   =   0
+        scores = []
 
         for idx, topic in enumerate(model.show_topics(num_topics=self.number_of_topics, num_words=25, formatted=False)): # topn=20
             
             print "Topic #%d:\n------------------------" % idx
-            
+
             for p, id in topic:
                 print p, id.encode('utf-8').strip()
+                scores.append([idx, p, id.encode('utf-8').strip()])
 
             print ""
+
+        scores = pd.DataFrame(scores, columns=['topic', 'score', 'word'])
+        print scores
+        # scores = np.array(scores)
+        # print scores / float(max(scores)) * 100
 
         
 
