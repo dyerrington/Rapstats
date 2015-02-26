@@ -12,6 +12,7 @@ class LDAExplorer:
     corpus_files    =   False
     corpus_data     =   '/tmp/corpus_data.mm'
     dictionary_data =   '/tmp/dictionary.data'
+    model_file      =   '/tmp/model.lda'
     logfile         =   'lda_stats.log'
     logging         =   {
         'filename': 'lda_stats.log',
@@ -86,7 +87,7 @@ class LDAExplorer:
             return words
 
         except IOError as e:
-            print "({})".format(e)
+            raise IOError("({})".format(e)) 
 
     def load_corpus_directory(self, directory):
 
@@ -120,18 +121,27 @@ class LDAExplorer:
 
     def generate_topics_lda(self):
 
-        lda =   gensim.models.ldamodel.LdaModel(corpus=self.corpus, id2word=self.dictionary, num_topics=self.number_of_topics, update_every=1, chunksize=1000, passes=4)
+        lda     =   gensim.models.ldamodel
+        
+        try:
+            model = lda.LdaModel.load(self.model_file)
+        except:
+            print "Generating new model..."
+            model = lda.LdaModel(corpus=self.corpus, id2word=self.dictionary, num_topics=self.number_of_topics, update_every=1, chunksize=1000, passes=4)
+            model.save(self.model_file)
 
         i   =   0
-        for topic in lda.show_topics(num_topics=self.number_of_topics, formatted=False): # topn=20
+
+        for idx, topic in enumerate(model.show_topics(num_topics=self.number_of_topics, num_words=25, formatted=False)): # topn=20
             
-            i = i + 1
-            print "Topic #", i, ":",
+            print "Topic #%d:\n------------------------" % idx
             
             for p, id in topic:
                 print p, id.encode('utf-8').strip()
 
             print ""
+
+        
 
 
 lda = LDAExplorer()
