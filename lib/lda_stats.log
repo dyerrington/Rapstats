@@ -1,0 +1,1020 @@
+2015-02-25 23:23:57,810 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:23:57,810 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:23:57,810 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:23:57,811 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:23:57,875 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:23:57,990 : INFO : setting ignored attribute state to None
+2015-02-25 23:23:57,990 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:23:57,990 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:26:32,184 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:26:32,184 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:26:32,184 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:26:32,184 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:26:32,232 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:26:32,328 : INFO : setting ignored attribute state to None
+2015-02-25 23:26:32,328 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:26:32,328 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:29:26,317 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:29:26,318 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:29:26,318 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:29:26,318 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:29:26,366 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:29:26,474 : INFO : setting ignored attribute state to None
+2015-02-25 23:29:26,474 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:29:26,474 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:29:40,784 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:29:40,784 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:29:40,784 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:29:40,784 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:29:40,836 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:29:40,937 : INFO : setting ignored attribute state to None
+2015-02-25 23:29:40,937 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:29:40,937 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:29:58,228 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:29:58,228 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:29:58,229 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:29:58,229 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:29:58,281 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:29:58,390 : INFO : setting ignored attribute state to None
+2015-02-25 23:29:58,390 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:29:58,390 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:32:38,398 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:32:38,399 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:32:38,399 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:32:38,399 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:32:38,452 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:32:38,545 : INFO : setting ignored attribute state to None
+2015-02-25 23:32:38,545 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:32:38,545 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:34:23,370 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:34:23,370 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:34:23,370 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:34:23,370 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:34:23,424 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:34:23,523 : INFO : setting ignored attribute state to None
+2015-02-25 23:34:23,523 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:34:23,523 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:34:27,011 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:34:27,011 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:34:27,011 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:34:27,012 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:34:27,060 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:34:27,155 : INFO : setting ignored attribute state to None
+2015-02-25 23:34:27,155 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:34:27,155 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:34:32,589 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:34:32,589 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:34:32,590 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:34:32,590 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:34:32,659 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:34:32,771 : INFO : setting ignored attribute state to None
+2015-02-25 23:34:32,771 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:34:32,771 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:34:43,187 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:34:43,187 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:34:43,187 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:34:43,187 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:34:43,255 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:34:43,352 : INFO : setting ignored attribute state to None
+2015-02-25 23:34:43,352 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:34:43,352 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:36:54,948 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:36:54,948 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:36:54,949 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:36:54,949 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:36:55,015 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:36:55,129 : INFO : setting ignored attribute state to None
+2015-02-25 23:36:55,130 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:36:55,130 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:36:59,263 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:36:59,264 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:36:59,264 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:36:59,264 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:36:59,339 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:36:59,463 : INFO : setting ignored attribute state to None
+2015-02-25 23:36:59,463 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:36:59,463 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:40:17,803 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:40:17,803 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:40:17,803 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:40:17,803 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:40:17,861 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:40:17,970 : INFO : setting ignored attribute state to None
+2015-02-25 23:40:17,970 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:40:17,970 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:40:37,335 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:40:37,335 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:40:37,336 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:40:37,336 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:40:37,396 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:40:37,503 : INFO : setting ignored attribute state to None
+2015-02-25 23:40:37,503 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:40:37,503 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:41:04,386 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:41:04,386 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:41:04,386 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:41:04,387 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:41:04,451 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:41:04,569 : INFO : setting ignored attribute state to None
+2015-02-25 23:41:04,569 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:41:04,569 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:42:22,265 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:42:22,265 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:42:22,266 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:42:22,266 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:42:22,319 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:42:22,416 : INFO : setting ignored attribute state to None
+2015-02-25 23:42:22,416 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:42:22,416 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:42:29,802 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:42:29,803 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:42:29,803 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:42:29,803 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:42:29,871 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:42:29,999 : INFO : setting ignored attribute state to None
+2015-02-25 23:42:29,999 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:42:29,999 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:42:34,937 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:42:34,938 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:42:34,938 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:42:34,938 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:42:34,986 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:42:35,088 : INFO : setting ignored attribute state to None
+2015-02-25 23:42:35,088 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:42:35,088 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:52:21,183 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:52:21,183 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:52:21,183 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:52:21,183 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:52:21,243 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:52:21,378 : INFO : setting ignored attribute state to None
+2015-02-25 23:52:21,379 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:52:21,379 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:52:53,011 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:52:53,011 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:52:53,012 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:52:53,012 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:52:53,086 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:52:53,196 : INFO : setting ignored attribute state to None
+2015-02-25 23:52:53,196 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:52:53,196 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:53:06,457 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:53:06,457 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:53:06,458 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:53:06,458 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:53:06,558 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:53:06,699 : INFO : setting ignored attribute state to None
+2015-02-25 23:53:06,700 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:53:06,700 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:54:38,414 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:54:38,415 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:54:38,415 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:54:38,415 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:54:38,469 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:54:38,566 : INFO : setting ignored attribute state to None
+2015-02-25 23:54:38,567 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:54:38,567 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:54:44,453 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:54:44,453 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:54:44,454 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:54:44,454 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:54:44,510 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:54:44,614 : INFO : setting ignored attribute state to None
+2015-02-25 23:54:44,615 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:54:44,615 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:55:44,110 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:55:44,110 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:55:44,110 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:55:44,110 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:55:44,166 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:55:44,265 : INFO : setting ignored attribute state to None
+2015-02-25 23:55:44,265 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:55:44,266 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:55:53,510 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:55:53,510 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:55:53,510 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:55:53,511 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:55:53,562 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:55:53,662 : INFO : setting ignored attribute state to None
+2015-02-25 23:55:53,662 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:55:53,662 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-25 23:56:17,004 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-25 23:56:17,004 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-25 23:56:17,004 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-25 23:56:17,004 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-25 23:56:17,058 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-25 23:56:17,150 : INFO : setting ignored attribute state to None
+2015-02-25 23:56:17,150 : INFO : setting ignored attribute dispatcher to None
+2015-02-25 23:56:17,150 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:06:22,173 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:06:22,175 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:06:22,175 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:06:22,175 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:06:22,236 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:06:22,366 : INFO : setting ignored attribute state to None
+2015-02-26 00:06:22,366 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:06:22,367 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:06:42,087 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:06:42,087 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:06:42,087 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:06:42,087 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:06:42,148 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:06:42,262 : INFO : setting ignored attribute state to None
+2015-02-26 00:06:42,262 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:06:42,263 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:07:50,393 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:07:50,393 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:07:50,394 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:07:50,394 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:07:50,451 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:07:50,569 : INFO : setting ignored attribute state to None
+2015-02-26 00:07:50,570 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:07:50,570 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:08:04,415 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:08:04,415 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:08:04,415 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:08:04,415 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:08:04,469 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:08:04,581 : INFO : setting ignored attribute state to None
+2015-02-26 00:08:04,582 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:08:04,582 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:09:03,796 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:09:03,796 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:09:03,796 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:09:03,796 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:09:03,866 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:09:04,007 : INFO : setting ignored attribute state to None
+2015-02-26 00:09:04,007 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:09:04,007 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:09:22,177 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:09:22,177 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:09:22,177 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:09:22,177 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:09:22,229 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:09:22,331 : INFO : setting ignored attribute state to None
+2015-02-26 00:09:22,331 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:09:22,331 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:09:49,842 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:09:49,842 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:09:49,843 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:09:49,843 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:09:49,895 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:09:49,994 : INFO : setting ignored attribute state to None
+2015-02-26 00:09:49,994 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:09:49,994 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:10:06,279 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:10:06,279 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:10:06,279 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:10:06,279 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:10:06,345 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:10:06,458 : INFO : setting ignored attribute state to None
+2015-02-26 00:10:06,458 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:10:06,458 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:10:14,674 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:10:14,674 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:10:14,674 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:10:14,675 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:10:14,728 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:10:14,834 : INFO : setting ignored attribute state to None
+2015-02-26 00:10:14,834 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:10:14,835 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:10:44,775 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:10:44,775 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:10:44,775 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:10:44,775 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:10:44,826 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:10:44,920 : INFO : setting ignored attribute state to None
+2015-02-26 00:10:44,921 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:10:44,921 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:13:12,822 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:13:12,822 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:13:12,822 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:13:12,822 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:13:12,876 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:13:13,011 : INFO : setting ignored attribute state to None
+2015-02-26 00:13:13,011 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:13:13,011 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:13:43,019 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:13:43,019 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:13:43,019 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:13:43,019 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:13:43,067 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:13:43,166 : INFO : setting ignored attribute state to None
+2015-02-26 00:13:43,166 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:13:43,166 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:13:54,361 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:13:54,361 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:13:54,361 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:13:54,361 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:13:54,416 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:13:54,522 : INFO : setting ignored attribute state to None
+2015-02-26 00:13:54,523 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:13:54,523 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:14:59,770 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:14:59,770 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:14:59,771 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:14:59,771 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:14:59,837 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:14:59,933 : INFO : setting ignored attribute state to None
+2015-02-26 00:14:59,933 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:14:59,933 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:15:49,008 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:15:49,008 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:15:49,008 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:15:49,009 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:15:49,087 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:15:49,257 : INFO : setting ignored attribute state to None
+2015-02-26 00:15:49,257 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:15:49,257 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:16:23,570 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:16:23,570 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:16:23,571 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:16:23,571 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:16:23,638 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:16:23,789 : INFO : setting ignored attribute state to None
+2015-02-26 00:16:23,789 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:16:23,789 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:16:41,234 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:16:41,235 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:16:41,235 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:16:41,235 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:16:41,322 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:16:41,531 : INFO : setting ignored attribute state to None
+2015-02-26 00:16:41,531 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:16:41,531 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:17:18,912 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:17:18,912 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:17:18,912 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:17:18,912 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:17:18,972 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:17:19,071 : INFO : setting ignored attribute state to None
+2015-02-26 00:17:19,071 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:17:19,071 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:18:22,932 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:18:22,933 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:18:22,933 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:18:22,933 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:18:22,981 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:18:23,079 : INFO : setting ignored attribute state to None
+2015-02-26 00:18:23,079 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:18:23,079 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:19:02,562 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:19:02,562 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:19:02,562 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:19:02,562 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:19:02,620 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:19:02,720 : INFO : setting ignored attribute state to None
+2015-02-26 00:19:02,720 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:19:02,720 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:19:14,764 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:19:14,764 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:19:14,764 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:19:14,764 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:19:14,816 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:19:14,911 : INFO : setting ignored attribute state to None
+2015-02-26 00:19:14,911 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:19:14,911 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:19:53,588 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:19:53,589 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:19:53,589 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:19:53,589 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:19:53,637 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:19:53,741 : INFO : setting ignored attribute state to None
+2015-02-26 00:19:53,741 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:19:53,741 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:19:55,524 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:19:55,524 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:19:55,524 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:19:55,525 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:19:55,590 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:19:55,698 : INFO : setting ignored attribute state to None
+2015-02-26 00:19:55,698 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:19:55,698 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-02-26 00:22:06,418 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-02-26 00:22:06,418 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-02-26 00:22:06,419 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-02-26 00:22:06,419 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-02-26 00:22:06,470 : INFO : loading LdaModel object from /tmp/model.lda
+2015-02-26 00:22:06,574 : INFO : setting ignored attribute state to None
+2015-02-26 00:22:06,574 : INFO : setting ignored attribute dispatcher to None
+2015-02-26 00:22:06,574 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-03-04 20:17:50,970 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-03-04 20:18:03,525 : INFO : adding document #0 to Dictionary(0 unique tokens: [])
+2015-03-04 20:18:06,164 : INFO : built Dictionary(19916 unique tokens: [u'lionhearted', u'foeswe', u'carcarcarcarcar', u'revolverbut', u'itbefore']...) from 7229 documents (total 450326 corpus positions)
+2015-03-04 20:18:06,164 : INFO : saving Dictionary object under /tmp/dictionary.data, separately None
+2015-03-04 20:18:08,801 : INFO : storing corpus in Matrix Market format to /tmp/corpus_data.mm
+2015-03-04 20:18:08,801 : INFO : saving sparse matrix to /tmp/corpus_data.mm
+2015-03-04 20:18:08,802 : INFO : PROGRESS: saving document #0
+2015-03-04 20:18:09,035 : INFO : PROGRESS: saving document #1000
+2015-03-04 20:18:09,257 : INFO : PROGRESS: saving document #2000
+2015-03-04 20:18:09,465 : INFO : PROGRESS: saving document #3000
+2015-03-04 20:18:09,688 : INFO : PROGRESS: saving document #4000
+2015-03-04 20:18:09,903 : INFO : PROGRESS: saving document #5000
+2015-03-04 20:18:10,141 : INFO : PROGRESS: saving document #6000
+2015-03-04 20:18:10,382 : INFO : PROGRESS: saving document #7000
+2015-03-04 20:18:10,437 : INFO : saved 7229x19916 matrix, density=0.106% (152833/143972764)
+2015-03-04 20:18:10,438 : INFO : saving MmCorpus index to /tmp/corpus_data.mm.index
+2015-03-04 20:18:10,441 : INFO : loading LdaModel object from /tmp/model.lda
+2015-03-04 20:18:10,443 : INFO : using symmetric alpha at 0.05
+2015-03-04 20:18:10,443 : INFO : using serial LDA version on this node
+2015-03-04 20:18:10,533 : INFO : running online LDA training, 20 topics, 4 passes over the supplied corpus of 7229 documents, updating model once every 1000 documents, evaluating perplexity every 7229 documents, iterating 50x with a convergence threshold of 0.001000
+2015-03-04 20:18:10,546 : INFO : PROGRESS: pass 0, at document #1000/7229
+2015-03-04 20:18:13,527 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:13,630 : INFO : topic #13 (0.050): 0.020*shit + 0.019*love + 0.018*york + 0.016*fuck + 0.014*niggas + 0.013*nigga + 0.009*break + 0.008*girl + 0.007*only + 0.006*give
+2015-03-04 20:18:13,633 : INFO : topic #15 (0.050): 0.024*niggas + 0.015*movin + 0.015*shit + 0.014*nigga + 0.012*think + 0.011*big + 0.009*night + 0.009*l + 0.006*africa + 0.006*day
+2015-03-04 20:18:13,635 : INFO : topic #18 (0.050): 0.027*love + 0.013*holla + 0.009*fuck + 0.008*many + 0.008*there + 0.007*nigga + 0.007*feel + 0.007*shit + 0.006*girls + 0.006*think
+2015-03-04 20:18:13,637 : INFO : topic #8 (0.050): 0.058*niggas + 0.026*shit + 0.022*nigga + 0.015*love + 0.012*fuck + 0.011*bus + 0.008*feel + 0.007*through + 0.007*bitches + 0.006*little
+2015-03-04 20:18:13,639 : INFO : topic #12 (0.050): 0.020*niggas + 0.017*little + 0.016*give + 0.015*life + 0.011*biz + 0.010*think + 0.010*shit + 0.009*love + 0.009*talk + 0.008*live
+2015-03-04 20:18:13,641 : INFO : topic #3 (0.050): 0.015*niggas + 0.014*baby + 0.012*gonna + 0.011*real + 0.010*brother + 0.009*through + 0.009*check + 0.009*big + 0.009*mi + 0.008*little
+2015-03-04 20:18:13,643 : INFO : topic #7 (0.050): 0.068*niggas + 0.023*nigga + 0.016*shit + 0.014*lonely + 0.011*rhymes + 0.010*fuck + 0.008*girl + 0.008*give + 0.007*life + 0.007*day
+2015-03-04 20:18:13,645 : INFO : topic #6 (0.050): 0.034*love + 0.032*niggas + 0.028*nigga + 0.027*shit + 0.014*fuck + 0.008*day + 0.007*been + 0.007*bitch + 0.007*through + 0.007*watch
+2015-03-04 20:18:13,647 : INFO : topic #0 (0.050): 0.029*niggas + 0.019*fuck + 0.018*nigga + 0.013*shit + 0.012*more + 0.010*baby + 0.009*through + 0.009*give + 0.008*been + 0.008*rock
+2015-03-04 20:18:13,648 : INFO : topic #19 (0.050): 0.030*niggas + 0.023*shit + 0.022*two + 0.013*nigga + 0.013*give + 0.012*fuck + 0.012*name + 0.009*ass + 0.007*more + 0.007*first
+2015-03-04 20:18:13,651 : INFO : topic #1 (0.050): 0.015*shit + 0.014*nigga + 0.013*big + 0.013*niggas + 0.011*na + 0.010*whole + 0.010*show + 0.008*more + 0.008*through + 0.007*think
+2015-03-04 20:18:13,653 : INFO : topic #2 (0.050): 0.017*shit + 0.015*biz + 0.015*niggas + 0.014*rock + 0.013*nigga + 0.010*heidi + 0.009*big + 0.008*more + 0.008*mark + 0.007*life
+2015-03-04 20:18:13,655 : INFO : topic #14 (0.050): 0.036*fuck + 0.018*nigga + 0.012*into + 0.009*mcs + 0.009*canibus + 0.009*shit + 0.008*niggas + 0.008*between + 0.008*many + 0.008*more
+2015-03-04 20:18:13,657 : INFO : topic #9 (0.050): 0.036*niggas + 0.029*nigga + 0.027*shit + 0.014*fuck + 0.011*whole + 0.009*watch + 0.008*money + 0.007*ass + 0.007*big + 0.007*day
+2015-03-04 20:18:13,658 : INFO : topic #10 (0.050): 0.014*niggas + 0.013*stop + 0.011*been + 0.009*people + 0.009*baby + 0.009*biz + 0.009*mi + 0.008*more + 0.008*rap + 0.008*v
+2015-03-04 20:18:13,660 : INFO : topic diff=18.534343, rho=1.000000
+2015-03-04 20:18:13,674 : INFO : PROGRESS: pass 0, at document #2000/7229
+2015-03-04 20:18:16,260 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:16,350 : INFO : topic #11 (0.050): 0.018*shit + 0.016*look + 0.014*life + 0.012*same + 0.012*been + 0.012*fuck + 0.012*through + 0.010*mean + 0.010*til + 0.010*niggas
+2015-03-04 20:18:16,352 : INFO : topic #12 (0.050): 0.022*think + 0.018*little + 0.017*life + 0.016*give + 0.012*niggas + 0.010*shit + 0.009*love + 0.009*didnt + 0.008*day + 0.006*talk
+2015-03-04 20:18:16,355 : INFO : topic #16 (0.050): 0.021*life + 0.016*more + 0.011*big + 0.011*rain + 0.010*boy + 0.010*money + 0.009*again + 0.008*nigga + 0.008*momma + 0.008*once
+2015-03-04 20:18:16,357 : INFO : topic #8 (0.050): 0.073*niggas + 0.035*nigga + 0.033*shit + 0.019*fuck + 0.014*bitches + 0.013*love + 0.012*feel + 0.009*through + 0.008*fuckin + 0.008*die
+2015-03-04 20:18:16,359 : INFO : topic #17 (0.050): 0.042*shit + 0.023*bitch + 0.022*nigga + 0.016*niggas + 0.016*fuck + 0.012*little + 0.012*two + 0.010*arf + 0.007*only + 0.007*whole
+2015-03-04 20:18:16,361 : INFO : topic #15 (0.050): 0.023*niggas + 0.020*think + 0.016*shit + 0.014*nigga + 0.011*i’m + 0.011*night + 0.009*black + 0.009*nothing + 0.007*hit + 0.007*don’t
+2015-03-04 20:18:16,363 : INFO : topic #14 (0.050): 0.060*fuck + 0.017*nigga + 0.014*hes + 0.011*gangsta + 0.010*imma + 0.010*going + 0.009*into + 0.009*shit + 0.008*think + 0.008*lookin
+2015-03-04 20:18:16,366 : INFO : topic #10 (0.050): 0.022*stop + 0.011*gun + 0.011*world + 0.010*people + 0.010*baby + 0.010*rap + 0.010*been + 0.009*thang + 0.009*niggas + 0.008*music
+2015-03-04 20:18:16,368 : INFO : topic #3 (0.050): 0.024*gonna + 0.018*baby + 0.017*wish + 0.014*real + 0.011*through + 0.010*niggas + 0.009*there + 0.009*check + 0.009*little + 0.008*brother
+2015-03-04 20:18:16,370 : INFO : topic #6 (0.050): 0.035*nigga + 0.035*love + 0.035*niggas + 0.034*shit + 0.027*bitch + 0.024*fuck + 0.013*fuckin + 0.009*through + 0.007*going + 0.006*hit
+2015-03-04 20:18:16,372 : INFO : topic #9 (0.050): 0.049*niggas + 0.042*nigga + 0.031*shit + 0.022*fuck + 0.018*ass + 0.012*ruff + 0.010*money + 0.009*rap + 0.009*girl + 0.007*whole
+2015-03-04 20:18:16,374 : INFO : topic #18 (0.050): 0.036*love + 0.012*there + 0.011*think + 0.011*girls + 0.010*fuck + 0.010*ho + 0.009*baby + 0.009*pimp + 0.009*girl + 0.009*feel
+2015-03-04 20:18:16,377 : INFO : topic #19 (0.050): 0.029*shit + 0.026*niggas + 0.022*two + 0.021*ass + 0.019*fuck + 0.015*nigga + 0.014*name + 0.014*bitch + 0.013*give + 0.011*dick
+2015-03-04 20:18:16,379 : INFO : topic #0 (0.050): 0.028*niggas + 0.027*fuck + 0.023*fucking + 0.018*nigga + 0.015*shit + 0.011*baby + 0.010*bitch + 0.010*more + 0.009*think + 0.009*real
+2015-03-04 20:18:16,381 : INFO : topic #4 (0.050): 0.015*through + 0.011*little + 0.010*fucked + 0.010*didnt + 0.009*light + 0.009*night + 0.007*which + 0.007*day + 0.007*love + 0.007*gonna
+2015-03-04 20:18:16,382 : INFO : topic diff=1.073349, rho=0.707107
+2015-03-04 20:18:16,396 : INFO : PROGRESS: pass 0, at document #3000/7229
+2015-03-04 20:18:18,761 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:18,849 : INFO : topic #3 (0.050): 0.019*baby + 0.018*gonna + 0.013*real + 0.010*wish + 0.009*through + 0.009*school + 0.008*big + 0.008*check + 0.008*life + 0.008*girl
+2015-03-04 20:18:18,851 : INFO : topic #9 (0.050): 0.049*nigga + 0.044*niggas + 0.031*shit + 0.026*fuck + 0.018*ass + 0.015*money + 0.012*rap + 0.009*girl + 0.007*talk + 0.007*tryin
+2015-03-04 20:18:18,854 : INFO : topic #7 (0.050): 0.077*niggas + 0.035*nigga + 0.017*fuck + 0.015*shit + 0.010*fuckin + 0.009*bitch + 0.008*life + 0.008*hit + 0.008*ass + 0.008*give
+2015-03-04 20:18:18,856 : INFO : topic #6 (0.050): 0.038*nigga + 0.036*love + 0.035*shit + 0.035*niggas + 0.028*fuck + 0.026*bitch + 0.019*fuckin + 0.011*motherfuckers + 0.008*motherfuckin + 0.008*through
+2015-03-04 20:18:18,858 : INFO : topic #5 (0.050): 0.044*nigga + 0.041*shit + 0.030*niggas + 0.018*ass + 0.014*fuck + 0.013*motherfucker + 0.012*world + 0.010*through + 0.010*baby + 0.009*pop
+2015-03-04 20:18:18,860 : INFO : topic #12 (0.050): 0.021*think + 0.018*life + 0.016*give + 0.013*little + 0.010*people + 0.009*live + 0.008*sexy + 0.008*love + 0.008*talking + 0.008*high
+2015-03-04 20:18:18,863 : INFO : topic #14 (0.050): 0.052*fuck + 0.018*gangsta + 0.016*nigga + 0.016*hes + 0.015*youyou + 0.012*into + 0.011*going + 0.011*mcs + 0.009*looking + 0.009*came
+2015-03-04 20:18:18,865 : INFO : topic #13 (0.050): 0.021*fuck + 0.017*shit + 0.016*love + 0.012*dog + 0.012*nigga + 0.011*niggas + 0.010*feel + 0.008*york + 0.007*hard + 0.007*jungle
+2015-03-04 20:18:18,867 : INFO : topic #0 (0.050): 0.026*fuck + 0.024*niggas + 0.017*fucking + 0.016*nigga + 0.013*more + 0.013*shit + 0.011*jayz + 0.011*baby + 0.008*real + 0.007*bitch
+2015-03-04 20:18:18,870 : INFO : topic #15 (0.050): 0.016*niggas + 0.015*black + 0.014*think + 0.012*i’m + 0.011*shit + 0.011*nigga + 0.011*night + 0.010*nothing + 0.009*eyes + 0.008*party
+2015-03-04 20:18:18,872 : INFO : topic #18 (0.050): 0.046*love + 0.017*girls + 0.013*baby + 0.012*girl + 0.011*please + 0.011*que + 0.010*feel + 0.009*think + 0.009*ho + 0.009*pimp
+2015-03-04 20:18:18,874 : INFO : topic #8 (0.050): 0.066*niggas + 0.038*nigga + 0.030*shit + 0.019*fuck + 0.014*feel + 0.014*bitches + 0.012*love + 0.011*better + 0.010*fuckin + 0.010*die
+2015-03-04 20:18:18,876 : INFO : topic #2 (0.050): 0.014*rock + 0.012*shit + 0.011*yourself + 0.010*hes + 0.009*ready + 0.008*black + 0.008*more + 0.007*ice + 0.007*started + 0.007*cop
+2015-03-04 20:18:18,879 : INFO : topic #10 (0.050): 0.022*music + 0.019*stop + 0.017*people + 0.015*world + 0.015*rap + 0.013*g + 0.013*believe + 0.011*mind + 0.010*god + 0.010*hear
+2015-03-04 20:18:18,881 : INFO : topic #19 (0.050): 0.025*shit + 0.025*ass + 0.020*niggas + 0.020*two + 0.019*fuck + 0.014*nigga + 0.013*name + 0.013*give + 0.012*dick + 0.011*bitch
+2015-03-04 20:18:18,882 : INFO : topic diff=1.117892, rho=0.577350
+2015-03-04 20:18:18,900 : INFO : PROGRESS: pass 0, at document #4000/7229
+2015-03-04 20:18:21,407 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:21,497 : INFO : topic #18 (0.050): 0.072*love + 0.029*baby + 0.021*girl + 0.020*ho + 0.017*hoes + 0.014*girls + 0.014*ride + 0.012*feel + 0.011*pimp + 0.010*please
+2015-03-04 20:18:21,499 : INFO : topic #7 (0.050): 0.076*niggas + 0.038*nigga + 0.020*fuck + 0.014*bitch + 0.013*shit + 0.009*give + 0.008*hit + 0.008*play + 0.008*ass + 0.008*lil
+2015-03-04 20:18:21,502 : INFO : topic #5 (0.050): 0.052*nigga + 0.035*shit + 0.027*niggas + 0.020*ass + 0.019*money + 0.018*fuck + 0.017*hot + 0.014*baby + 0.013*lil + 0.013*pop
+2015-03-04 20:18:21,504 : INFO : topic #2 (0.050): 0.021*rock + 0.013*mama + 0.009*shit + 0.008*hes + 0.008*ready + 0.008*yourself + 0.008*funky + 0.008*tried + 0.007*there + 0.007*funk
+2015-03-04 20:18:21,506 : INFO : topic #0 (0.050): 0.024*fuck + 0.020*niggas + 0.017*fucking + 0.016*baby + 0.016*nigga + 0.013*more + 0.012*bitch + 0.010*shit + 0.010*throw + 0.009*stupid
+2015-03-04 20:18:21,509 : INFO : topic #9 (0.050): 0.058*nigga + 0.039*niggas + 0.031*money + 0.030*fuck + 0.027*shit + 0.021*ass + 0.012*jump + 0.012*bitch + 0.010*club + 0.009*hands
+2015-03-04 20:18:21,511 : INFO : topic #4 (0.050): 0.022*diggy + 0.017*carter + 0.013*fucked + 0.012*light + 0.011*sorry + 0.009*through + 0.009*night + 0.009*day + 0.008*teacher + 0.008*meand
+2015-03-04 20:18:21,514 : INFO : topic #13 (0.050): 0.022*crunk + 0.018*fuck + 0.017*love + 0.014*hook + 0.014*shit + 0.011*feel + 0.011*nigga + 0.009*hard + 0.009*york + 0.008*dog
+2015-03-04 20:18:21,516 : INFO : topic #1 (0.050): 0.015*na + 0.014*big + 0.010*show + 0.010*u + 0.010*mc + 0.009*kool + 0.008*2x + 0.008*nigga + 0.008*king + 0.008*shit
+2015-03-04 20:18:21,518 : INFO : topic #10 (0.050): 0.025*stop + 0.019*music + 0.018*cool + 0.017*people + 0.013*drop + 0.013*world + 0.013*believe + 0.012*rap + 0.012*beat + 0.012*hear
+2015-03-04 20:18:21,521 : INFO : topic #16 (0.050): 0.026*money + 0.019*life + 0.017*boy + 0.013*break + 0.012*more + 0.011*big + 0.011*again + 0.011*momma + 0.009*wild + 0.008*livin
+2015-03-04 20:18:21,523 : INFO : topic #15 (0.050): 0.022*i’m + 0.013*don’t + 0.012*black + 0.011*think + 0.011*niggas + 0.010*nothing + 0.010*night + 0.010*movin + 0.009*south + 0.009*people
+2015-03-04 20:18:21,525 : INFO : topic #6 (0.050): 0.053*bitch + 0.044*nigga + 0.037*niggas + 0.036*love + 0.035*shit + 0.031*fuck + 0.016*fuckin + 0.014*money + 0.009*pussy + 0.008*motherfuckin
+2015-03-04 20:18:21,528 : INFO : topic #14 (0.050): 0.047*fuck + 0.030*pussy + 0.018*hes + 0.016*lookin + 0.015*gangsta + 0.013*nigga + 0.012*looking + 0.012*ask + 0.011*going + 0.011*imma
+2015-03-04 20:18:21,531 : INFO : topic #19 (0.050): 0.032*ass + 0.023*dick + 0.023*shit + 0.021*two + 0.019*bitch + 0.019*fuck + 0.017*name + 0.016*give + 0.016*niggas + 0.014*nigga
+2015-03-04 20:18:21,533 : INFO : topic diff=1.068712, rho=0.500000
+2015-03-04 20:18:21,546 : INFO : PROGRESS: pass 0, at document #5000/7229
+2015-03-04 20:18:23,648 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:23,740 : INFO : topic #14 (0.050): 0.049*fuck + 0.023*pussy + 0.023*gangsta + 0.020*hes + 0.013*lookin + 0.012*looking + 0.012*going + 0.010*imma + 0.010*nigga + 0.010*into
+2015-03-04 20:18:23,743 : INFO : topic #7 (0.050): 0.101*niggas + 0.037*nigga + 0.021*fuck + 0.016*shit + 0.011*real + 0.011*bitch + 0.009*life + 0.008*give + 0.008*hit + 0.008*sayin
+2015-03-04 20:18:23,745 : INFO : topic #17 (0.050): 0.033*shit + 0.022*bitch + 0.017*nigga + 0.015*two + 0.012*word + 0.012*niggas + 0.010*money + 0.010*fuck + 0.010*queens + 0.009*wake
+2015-03-04 20:18:23,748 : INFO : topic #0 (0.050): 0.023*fuck + 0.021*niggas + 0.017*more + 0.015*fucking + 0.015*nigga + 0.013*baby + 0.013*shit + 0.011*real + 0.009*told + 0.009*nas
+2015-03-04 20:18:23,750 : INFO : topic #13 (0.050): 0.030*york + 0.015*love + 0.015*crunk + 0.014*fuck + 0.014*shit + 0.013*jam + 0.012*hook + 0.012*hard + 0.011*kick + 0.010*feel
+2015-03-04 20:18:23,753 : INFO : topic #2 (0.050): 0.021*rock + 0.010*black + 0.009*mama + 0.009*more + 0.008*been + 0.008*tried + 0.008*there + 0.008*hes + 0.008*ready + 0.008*soul
+2015-03-04 20:18:23,755 : INFO : topic #4 (0.050): 0.015*light + 0.012*through + 0.012*diggy + 0.011*fucked + 0.010*carter + 0.009*their + 0.009*agent + 0.008*gettin + 0.008*night + 0.008*day
+2015-03-04 20:18:23,758 : INFO : topic #19 (0.050): 0.027*ass + 0.023*dick + 0.022*shit + 0.022*two + 0.020*name + 0.018*bitch + 0.016*fuck + 0.015*niggas + 0.014*give + 0.012*call
+2015-03-04 20:18:23,760 : INFO : topic #11 (0.050): 0.019*look + 0.016*hip + 0.015*hop + 0.014*same + 0.013*weezy + 0.013*life + 0.012*real + 0.010*shit + 0.008*super + 0.008*understand
+2015-03-04 20:18:23,763 : INFO : topic #1 (0.050): 0.015*show + 0.013*mic + 0.011*king + 0.011*save + 0.011*big + 0.010*na + 0.009*mc + 0.009*whole + 0.009*2x + 0.008*black
+2015-03-04 20:18:23,765 : INFO : topic #5 (0.050): 0.053*nigga + 0.037*shit + 0.030*niggas + 0.018*money + 0.018*fuck + 0.017*ass + 0.016*hot + 0.013*pop + 0.013*motherfucker + 0.013*cash
+2015-03-04 20:18:23,767 : INFO : topic #6 (0.050): 0.049*nigga + 0.046*niggas + 0.043*bitch + 0.038*shit + 0.036*love + 0.034*fuck + 0.013*fuckin + 0.012*money + 0.008*through + 0.008*motherfuckin
+2015-03-04 20:18:23,770 : INFO : topic #10 (0.050): 0.029*stop + 0.022*people + 0.019*world + 0.018*music + 0.015*god + 0.014*hear + 0.014*rap + 0.013*cool + 0.013*beat + 0.012*mic
+2015-03-04 20:18:23,773 : INFO : topic #18 (0.050): 0.084*love + 0.025*baby + 0.021*girl + 0.016*ho + 0.013*girls + 0.013*feel + 0.012*hoes + 0.011*ride + 0.010*change + 0.010*please
+2015-03-04 20:18:23,775 : INFO : topic #8 (0.050): 0.083*niggas + 0.047*nigga + 0.033*shit + 0.019*fuck + 0.015*real + 0.014*bitches + 0.013*feel + 0.012*gun + 0.012*hood + 0.010*love
+2015-03-04 20:18:23,776 : INFO : topic diff=0.944235, rho=0.447214
+2015-03-04 20:18:23,790 : INFO : PROGRESS: pass 0, at document #6000/7229
+2015-03-04 20:18:26,168 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:26,273 : INFO : topic #16 (0.050): 0.024*life + 0.020*money + 0.015*boy + 0.014*livin + 0.014*again + 0.013*more + 0.012*big + 0.011*break + 0.011*dope + 0.010*momma
+2015-03-04 20:18:26,277 : INFO : topic #4 (0.050): 0.021*light + 0.015*fucked + 0.012*through + 0.010*diggy + 0.010*day + 0.010*dream + 0.010*times + 0.009*gettin + 0.008*mother + 0.008*their
+2015-03-04 20:18:26,280 : INFO : topic #7 (0.050): 0.100*niggas + 0.045*nigga + 0.029*dogg + 0.022*fuck + 0.016*shit + 0.011*real + 0.009*bitch + 0.009*smoke + 0.009*hit + 0.008*life
+2015-03-04 20:18:26,283 : INFO : topic #19 (0.050): 0.028*ass + 0.024*dick + 0.022*name + 0.021*shit + 0.021*two + 0.018*bitch + 0.015*fuck + 0.015*call + 0.015*give + 0.013*niggas
+2015-03-04 20:18:26,286 : INFO : topic #0 (0.050): 0.023*fuck + 0.020*niggas + 0.017*fucking + 0.016*more + 0.015*nigga + 0.012*shit + 0.011*baby + 0.010*real + 0.010*stupid + 0.009*told
+2015-03-04 20:18:26,289 : INFO : topic #14 (0.050): 0.040*fuck + 0.037*gangsta + 0.033*snoop + 0.022*master + 0.020*hes + 0.019*pussy + 0.014*lookin + 0.012*going + 0.011*looking + 0.010*nigga
+2015-03-04 20:18:26,292 : INFO : topic #5 (0.050): 0.060*nigga + 0.039*shit + 0.029*niggas + 0.018*ass + 0.017*fuck + 0.017*money + 0.017*motherfucker + 0.014*hot + 0.013*pop + 0.013*world
+2015-03-04 20:18:26,295 : INFO : topic #11 (0.050): 0.016*look + 0.014*life + 0.012*hip + 0.012*hop + 0.011*same + 0.011*real + 0.009*weezy + 0.009*shit + 0.008*been + 0.007*enough
+2015-03-04 20:18:26,297 : INFO : topic #1 (0.050): 0.027*king + 0.018*na + 0.015*show + 0.015*house + 0.011*mic + 0.011*big + 0.010*2x + 0.009*freak + 0.009*save + 0.008*place
+2015-03-04 20:18:26,300 : INFO : topic #17 (0.050): 0.028*shit + 0.019*bitch + 0.016*two + 0.016*word + 0.015*nigga + 0.012*jay + 0.010*niggas + 0.010*little + 0.009*fuck + 0.009*heat
+2015-03-04 20:18:26,303 : INFO : topic #8 (0.050): 0.083*niggas + 0.051*nigga + 0.034*shit + 0.020*fuck + 0.018*hood + 0.015*real + 0.013*bitches + 0.011*feel + 0.011*ghetto + 0.010*die
+2015-03-04 20:18:26,306 : INFO : topic #12 (0.050): 0.022*life + 0.019*think + 0.018*give + 0.017*little + 0.013*talk + 0.013*live + 0.012*people + 0.011*talking + 0.010*hot + 0.009*bounce
+2015-03-04 20:18:26,309 : INFO : topic #10 (0.050): 0.029*stop + 0.022*people + 0.022*world + 0.021*beat + 0.020*music + 0.017*rock + 0.015*hear + 0.014*rap + 0.014*god + 0.013*thang
+2015-03-04 20:18:26,312 : INFO : topic #2 (0.050): 0.056*rock + 0.021*funk + 0.010*ready + 0.009*more + 0.009*black + 0.009*number + 0.008*mama + 0.008*funky + 0.007*been + 0.007*shit
+2015-03-04 20:18:26,315 : INFO : topic #15 (0.050): 0.019*black + 0.019*i’m + 0.014*shot + 0.012*homies + 0.011*homie + 0.011*south + 0.010*people + 0.010*nothing + 0.010*night + 0.009*niggas
+2015-03-04 20:18:26,316 : INFO : topic diff=1.198058, rho=0.408248
+2015-03-04 20:18:26,334 : INFO : PROGRESS: pass 0, at document #7000/7229
+2015-03-04 20:18:29,085 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:29,176 : INFO : topic #13 (0.050): 0.034*short + 0.017*city + 0.017*jam + 0.015*house + 0.015*hook + 0.014*hard + 0.014*york + 0.012*hate + 0.012*dog + 0.011*love
+2015-03-04 20:18:29,179 : INFO : topic #6 (0.050): 0.067*bitch + 0.057*nigga + 0.043*fuck + 0.041*niggas + 0.036*shit + 0.025*love + 0.016*fuckin + 0.013*motherfuckin + 0.012*motherfuckers + 0.010*money
+2015-03-04 20:18:29,181 : INFO : topic #3 (0.050): 0.042*baby + 0.032*gonna + 0.016*real + 0.015*cry + 0.012*check + 0.011*girl + 0.011*school + 0.011*dem + 0.010*there + 0.009*nah
+2015-03-04 20:18:29,184 : INFO : topic #5 (0.050): 0.061*nigga + 0.037*shit + 0.029*niggas + 0.021*money + 0.020*ass + 0.018*motherfucker + 0.017*fuck + 0.014*world + 0.011*young + 0.011*cash
+2015-03-04 20:18:29,187 : INFO : topic #2 (0.050): 0.050*rock + 0.022*funk + 0.017*mama + 0.014*ready + 0.011*heart + 0.010*started + 0.009*black + 0.009*planet + 0.008*met + 0.008*funky
+2015-03-04 20:18:29,190 : INFO : topic #10 (0.050): 0.041*stop + 0.027*music + 0.027*beat + 0.022*hear + 0.022*rap + 0.020*world + 0.019*people + 0.013*rock + 0.013*thang + 0.012*god
+2015-03-04 20:18:29,192 : INFO : topic #12 (0.050): 0.027*life + 0.019*give + 0.018*think + 0.017*little + 0.013*live + 0.012*really + 0.012*talk + 0.012*people + 0.011*pain + 0.010*talking
+2015-03-04 20:18:29,195 : INFO : topic #18 (0.050): 0.103*love + 0.034*girl + 0.028*hoes + 0.027*baby + 0.021*ho + 0.021*pimp + 0.015*girls + 0.013*pimpin + 0.012*feel + 0.011*ride
+2015-03-04 20:18:29,198 : INFO : topic #1 (0.050): 0.025*freak + 0.019*king + 0.018*house + 0.014*show + 0.014*na + 0.013*hort + 0.012*big + 0.012*2x + 0.010*mic + 0.009*place
+2015-03-04 20:18:29,200 : INFO : topic #16 (0.050): 0.035*tech + 0.029*life + 0.026*wild + 0.022*money + 0.014*boy + 0.014*livin + 0.012*punk + 0.011*dope + 0.011*more + 0.011*again
+2015-03-04 20:18:29,203 : INFO : topic #19 (0.050): 0.032*dick + 0.028*ass + 0.022*name + 0.021*bitch + 0.018*call + 0.017*shit + 0.017*two + 0.016*give + 0.013*fuck + 0.013*bitches
+2015-03-04 20:18:29,206 : INFO : topic #17 (0.050): 0.025*shit + 0.017*bitch + 0.014*two + 0.014*nigga + 0.014*word + 0.013*wake + 0.010*strange + 0.009*little + 0.009*niggas + 0.009*cut
+2015-03-04 20:18:29,209 : INFO : topic #0 (0.050): 0.020*fuck + 0.017*niggas + 0.016*fucking + 0.015*more + 0.013*nigga + 0.013*baby + 0.012*told + 0.011*shit + 0.010*real + 0.008*bitch
+2015-03-04 20:18:29,211 : INFO : topic #14 (0.050): 0.036*fuck + 0.028*gangsta + 0.023*snoop + 0.021*hes + 0.019*pussy + 0.015*master + 0.015*looking + 0.015*lookin + 0.015*going + 0.010*2pac
+2015-03-04 20:18:29,214 : INFO : topic #11 (0.050): 0.020*look + 0.015*life + 0.012*same + 0.010*real + 0.010*forever + 0.009*been + 0.009*hop + 0.008*star + 0.008*hip + 0.008*last
+2015-03-04 20:18:29,215 : INFO : topic diff=1.152127, rho=0.377964
+2015-03-04 20:18:30,051 : INFO : -9.351 per-word bound, 652.8 perplexity estimate based on a held-out corpus of 229 documents with 11131 words
+2015-03-04 20:18:30,051 : INFO : PROGRESS: pass 0, at document #7229/7229
+2015-03-04 20:18:30,511 : INFO : merging changes from 229 documents into a model of 7229 documents
+2015-03-04 20:18:30,606 : INFO : topic #16 (0.050): 0.035*life + 0.028*tech + 0.027*money + 0.020*wild + 0.015*break + 0.014*again + 0.013*livin + 0.011*boy + 0.011*drink + 0.011*punk
+2015-03-04 20:18:30,609 : INFO : topic #14 (0.050): 0.037*fuck + 0.025*xzibit + 0.025*pussy + 0.019*gangsta + 0.018*going + 0.016*whats + 0.015*snoop + 0.015*looking + 0.015*hes + 0.012*master
+2015-03-04 20:18:30,612 : INFO : topic #3 (0.050): 0.034*baby + 0.029*gonna + 0.013*real + 0.012*cry + 0.011*bring + 0.011*wish + 0.011*spread + 0.011*dem + 0.010*check + 0.010*there
+2015-03-04 20:18:30,614 : INFO : topic #4 (0.050): 0.016*light + 0.015*fly + 0.015*sorry + 0.014*through + 0.014*fucked + 0.012*day + 0.012*business + 0.011*night + 0.010*gettin + 0.010*times
+2015-03-04 20:18:30,617 : INFO : topic #9 (0.050): 0.056*nigga + 0.039*niggas + 0.039*money + 0.032*fuck + 0.032*shit + 0.019*roll + 0.019*ass + 0.015*bitch + 0.011*bout + 0.011*hands
+2015-03-04 20:18:30,620 : INFO : topic #6 (0.050): 0.063*bitch + 0.055*nigga + 0.046*shit + 0.043*niggas + 0.041*fuck + 0.024*love + 0.019*fuckin + 0.013*bitches + 0.012*money + 0.012*motherfuckin
+2015-03-04 20:18:30,622 : INFO : topic #7 (0.050): 0.107*niggas + 0.040*nigga + 0.032*weed + 0.021*smoke + 0.021*fuck + 0.018*shit + 0.018*high + 0.016*gang + 0.013*taylor + 0.011*dogg
+2015-03-04 20:18:30,625 : INFO : topic #12 (0.050): 0.030*life + 0.021*think + 0.017*give + 0.016*talk + 0.015*little + 0.015*live + 0.015*much + 0.013*really + 0.012*feel + 0.012*talking
+2015-03-04 20:18:30,628 : INFO : topic #17 (0.050): 0.028*shit + 0.018*wake + 0.015*heat + 0.015*bitch + 0.014*room + 0.014*nigga + 0.012*two + 0.010*whole + 0.010*word + 0.010*money
+2015-03-04 20:18:30,631 : INFO : topic #5 (0.050): 0.054*nigga + 0.041*shit + 0.032*niggas + 0.030*money + 0.018*fuck + 0.017*ass + 0.017*world + 0.015*motherfucker + 0.013*young + 0.012*cash
+2015-03-04 20:18:30,634 : INFO : topic #15 (0.050): 0.048*i’m + 0.023*night + 0.017*roll + 0.015*don’t + 0.015*homie + 0.015*black + 0.014*party + 0.013*nothing + 0.011*shot + 0.011*west
+2015-03-04 20:18:30,636 : INFO : topic #8 (0.050): 0.082*niggas + 0.050*nigga + 0.037*shit + 0.020*fuck + 0.018*feel + 0.017*thug + 0.015*bitches + 0.014*die + 0.014*hood + 0.013*real
+2015-03-04 20:18:30,639 : INFO : topic #18 (0.050): 0.097*love + 0.039*girl + 0.032*baby + 0.029*hoes + 0.018*feel + 0.018*ho + 0.016*pimp + 0.015*ride + 0.014*mary + 0.013*girls
+2015-03-04 20:18:30,642 : INFO : topic #2 (0.050): 0.048*rock + 0.019*funk + 0.019*ready + 0.016*mama + 0.013*started + 0.011*number + 0.010*met + 0.010*remember + 0.009*planet + 0.009*heart
+2015-03-04 20:18:30,645 : INFO : topic #10 (0.050): 0.039*stop + 0.027*music + 0.026*beat + 0.022*rap + 0.020*hear + 0.019*people + 0.018*world + 0.013*believe + 0.012*thang + 0.012*rock
+2015-03-04 20:18:30,646 : INFO : topic diff=0.548888, rho=0.353553
+2015-03-04 20:18:30,660 : INFO : PROGRESS: pass 1, at document #1000/7229
+2015-03-04 20:18:32,308 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:32,396 : INFO : topic #10 (0.050): 0.032*stop + 0.025*rap + 0.024*rhymes + 0.023*music + 0.020*beat + 0.019*people + 0.016*hear + 0.016*mic + 0.015*world + 0.013*rock
+2015-03-04 20:18:32,399 : INFO : topic #2 (0.050): 0.049*rock + 0.016*ready + 0.013*started + 0.012*biz + 0.012*funk + 0.011*number + 0.009*mama + 0.008*remember + 0.008*more + 0.007*funky
+2015-03-04 20:18:32,402 : INFO : topic #11 (0.050): 0.022*look + 0.016*been + 0.016*same + 0.014*star + 0.013*life + 0.010*forever + 0.009*through + 0.009*hop + 0.009*hip + 0.009*last
+2015-03-04 20:18:32,405 : INFO : topic #4 (0.050): 0.019*light + 0.017*sorry + 0.015*fucked + 0.015*through + 0.015*day + 0.012*night + 0.011*fly + 0.011*dream + 0.010*times + 0.010*job
+2015-03-04 20:18:32,408 : INFO : topic #19 (0.050): 0.030*name + 0.025*ass + 0.023*two + 0.020*dick + 0.020*shit + 0.016*give + 0.016*call + 0.013*bitch + 0.011*fuck + 0.011*niggas
+2015-03-04 20:18:32,410 : INFO : topic #16 (0.050): 0.032*life + 0.023*money + 0.018*break + 0.017*tech + 0.016*again + 0.015*wild + 0.014*more + 0.012*big + 0.011*livin + 0.010*once
+2015-03-04 20:18:32,413 : INFO : topic #13 (0.050): 0.021*x + 0.020*york + 0.016*short + 0.016*hook + 0.016*city + 0.014*hate + 0.013*hard + 0.011*house + 0.011*shit + 0.010*fuck
+2015-03-04 20:18:32,416 : INFO : topic #14 (0.050): 0.038*fuck + 0.019*pussy + 0.017*xzibit + 0.015*going + 0.015*whats + 0.015*gangsta + 0.012*looking + 0.012*hes + 0.011*into + 0.010*snoop
+2015-03-04 20:18:32,419 : INFO : topic #0 (0.050): 0.024*more + 0.018*fuck + 0.017*niggas + 0.012*baby + 0.011*nigga + 0.010*shit + 0.009*fucking + 0.009*told + 0.008*real + 0.008*through
+2015-03-04 20:18:32,421 : INFO : topic #17 (0.050): 0.029*shit + 0.016*wake + 0.014*heat + 0.013*two + 0.013*word + 0.013*nigga + 0.011*whole + 0.011*room + 0.011*bitch + 0.010*cut
+2015-03-04 20:18:32,424 : INFO : topic #9 (0.050): 0.054*nigga + 0.040*niggas + 0.034*money + 0.034*shit + 0.028*fuck + 0.017*ass + 0.016*roll + 0.011*club + 0.011*hands + 0.011*bitch
+2015-03-04 20:18:32,427 : INFO : topic #6 (0.050): 0.054*nigga + 0.051*bitch + 0.049*shit + 0.046*niggas + 0.040*fuck + 0.024*love + 0.018*fuckin + 0.011*money + 0.010*bitches + 0.010*motherfuckin
+2015-03-04 20:18:32,430 : INFO : topic #15 (0.050): 0.036*i’m + 0.024*night + 0.014*black + 0.013*movin + 0.013*roll + 0.013*party + 0.012*don’t + 0.012*nothing + 0.011*homie + 0.010*strong
+2015-03-04 20:18:32,434 : INFO : topic #8 (0.050): 0.090*niggas + 0.044*nigga + 0.039*shit + 0.019*fuck + 0.015*feel + 0.014*bitches + 0.012*hood + 0.011*real + 0.011*die + 0.011*thug
+2015-03-04 20:18:32,437 : INFO : topic #7 (0.050): 0.110*niggas + 0.038*nigga + 0.022*weed + 0.020*shit + 0.019*fuck + 0.015*smoke + 0.015*high + 0.011*gang + 0.009*bitches + 0.009*hit
+2015-03-04 20:18:32,439 : INFO : topic diff=0.559224, rho=0.353553
+2015-03-04 20:18:32,455 : INFO : PROGRESS: pass 1, at document #2000/7229
+2015-03-04 20:18:34,137 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:34,229 : INFO : topic #15 (0.050): 0.033*i’m + 0.022*night + 0.015*black + 0.013*don’t + 0.013*party + 0.012*nothing + 0.011*think + 0.010*homie + 0.010*shot + 0.010*roll
+2015-03-04 20:18:34,231 : INFO : topic #18 (0.050): 0.101*love + 0.043*girl + 0.030*baby + 0.017*girls + 0.015*feel + 0.014*hoes + 0.014*ho + 0.011*pimp + 0.011*think + 0.010*ride
+2015-03-04 20:18:34,234 : INFO : topic #8 (0.050): 0.097*niggas + 0.048*nigga + 0.041*shit + 0.020*fuck + 0.016*feel + 0.015*bitches + 0.014*hood + 0.013*real + 0.012*die + 0.011*through
+2015-03-04 20:18:34,237 : INFO : topic #13 (0.050): 0.019*x + 0.015*york + 0.014*dog + 0.013*short + 0.013*hard + 0.012*hook + 0.012*shit + 0.012*hate + 0.011*city + 0.011*feel
+2015-03-04 20:18:34,239 : INFO : topic #19 (0.050): 0.031*name + 0.029*ass + 0.023*shit + 0.023*two + 0.021*dick + 0.016*give + 0.015*call + 0.013*bitch + 0.013*fuck + 0.011*niggas
+2015-03-04 20:18:34,242 : INFO : topic #12 (0.050): 0.027*life + 0.026*think + 0.023*little + 0.019*give + 0.014*talk + 0.012*live + 0.012*much + 0.012*really + 0.011*day + 0.010*people
+2015-03-04 20:18:34,245 : INFO : topic #16 (0.050): 0.036*life + 0.018*money + 0.017*again + 0.016*break + 0.014*more + 0.012*tech + 0.012*boy + 0.012*big + 0.011*wild + 0.011*rain
+2015-03-04 20:18:34,247 : INFO : topic #9 (0.050): 0.054*nigga + 0.044*niggas + 0.034*shit + 0.029*money + 0.028*fuck + 0.021*ass + 0.012*roll + 0.012*bitch + 0.011*hands + 0.010*jump
+2015-03-04 20:18:34,250 : INFO : topic #2 (0.050): 0.041*rock + 0.014*started + 0.013*ready + 0.011*number + 0.010*funk + 0.009*tried + 0.009*biz + 0.008*yourself + 0.008*mama + 0.008*more
+2015-03-04 20:18:34,253 : INFO : topic #7 (0.050): 0.115*niggas + 0.039*nigga + 0.020*shit + 0.020*fuck + 0.018*weed + 0.015*smoke + 0.014*high + 0.010*hit + 0.009*gang + 0.009*fuckin
+2015-03-04 20:18:34,256 : INFO : topic #10 (0.050): 0.035*stop + 0.029*rap + 0.026*music + 0.022*rhymes + 0.019*beat + 0.019*mic + 0.018*hear + 0.017*people + 0.014*world + 0.013*rock
+2015-03-04 20:18:34,258 : INFO : topic #4 (0.050): 0.018*through + 0.017*light + 0.013*day + 0.013*sorry + 0.012*fucked + 0.011*night + 0.010*dream + 0.009*fly + 0.009*times + 0.009*their
+2015-03-04 20:18:34,261 : INFO : topic #3 (0.050): 0.032*gonna + 0.028*baby + 0.019*wish + 0.014*real + 0.013*check + 0.010*dem + 0.010*brother + 0.009*there + 0.009*girl + 0.009*nah
+2015-03-04 20:18:34,264 : INFO : topic #11 (0.050): 0.023*look + 0.018*same + 0.017*been + 0.012*star + 0.011*through + 0.011*hop + 0.011*life + 0.010*til + 0.010*shit + 0.009*forever
+2015-03-04 20:18:34,266 : INFO : topic #14 (0.050): 0.043*fuck + 0.019*hes + 0.018*going + 0.017*gangsta + 0.013*whats + 0.013*pussy + 0.011*lookin + 0.010*looking + 0.010*into + 0.009*xzibit
+2015-03-04 20:18:34,268 : INFO : topic diff=0.501125, rho=0.333333
+2015-03-04 20:18:34,281 : INFO : PROGRESS: pass 1, at document #3000/7229
+2015-03-04 20:18:35,766 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:35,857 : INFO : topic #6 (0.050): 0.055*nigga + 0.054*shit + 0.051*fuck + 0.049*bitch + 0.046*niggas + 0.026*fuckin + 0.019*love + 0.014*motherfuckin + 0.010*motherfuckers + 0.009*bitches
+2015-03-04 20:18:35,860 : INFO : topic #10 (0.050): 0.029*music + 0.028*rap + 0.024*stop + 0.017*rhymes + 0.017*people + 0.015*hear + 0.014*mic + 0.013*world + 0.013*beat + 0.012*believe
+2015-03-04 20:18:35,863 : INFO : topic #13 (0.050): 0.017*york + 0.015*hate + 0.014*x + 0.013*city + 0.012*hook + 0.012*feel + 0.012*hard + 0.010*shit + 0.010*fuck + 0.010*short
+2015-03-04 20:18:35,866 : INFO : topic #8 (0.050): 0.091*niggas + 0.049*nigga + 0.040*shit + 0.020*fuck + 0.016*feel + 0.014*hood + 0.013*die + 0.013*real + 0.013*bitches + 0.011*thug
+2015-03-04 20:18:35,868 : INFO : topic #16 (0.050): 0.037*life + 0.021*money + 0.016*break + 0.015*again + 0.013*more + 0.013*boy + 0.011*big + 0.010*wild + 0.010*livin + 0.010*once
+2015-03-04 20:18:35,871 : INFO : topic #18 (0.050): 0.107*love + 0.047*girl + 0.033*baby + 0.021*girls + 0.015*feel + 0.013*hoes + 0.012*ho + 0.011*please + 0.010*think + 0.010*pimp
+2015-03-04 20:18:35,874 : INFO : topic #12 (0.050): 0.027*life + 0.026*think + 0.020*little + 0.018*give + 0.014*talk + 0.013*live + 0.013*really + 0.012*people + 0.010*talking + 0.010*day
+2015-03-04 20:18:35,876 : INFO : topic #17 (0.050): 0.029*shit + 0.020*two + 0.013*wake + 0.012*word + 0.011*little + 0.011*nigga + 0.010*heat + 0.010*bitch + 0.010*three + 0.010*whole
+2015-03-04 20:18:35,880 : INFO : topic #4 (0.050): 0.020*light + 0.016*through + 0.016*sorry + 0.013*day + 0.011*fucked + 0.011*night + 0.011*dream + 0.011*their + 0.009*fly + 0.008*world
+2015-03-04 20:18:35,883 : INFO : topic #5 (0.050): 0.052*nigga + 0.043*shit + 0.031*niggas + 0.020*ass + 0.020*money + 0.016*fuck + 0.014*motherfucker + 0.014*world + 0.012*hot + 0.011*pop
+2015-03-04 20:18:35,886 : INFO : topic #3 (0.050): 0.027*gonna + 0.024*baby + 0.015*wish + 0.015*real + 0.013*guy + 0.012*check + 0.011*dem + 0.011*bring + 0.011*school + 0.010*nah
+2015-03-04 20:18:35,889 : INFO : topic #11 (0.050): 0.023*look + 0.018*same + 0.014*hop + 0.014*been + 0.013*star + 0.011*hip + 0.011*forever + 0.011*life + 0.009*through + 0.008*shit
+2015-03-04 20:18:35,892 : INFO : topic #9 (0.050): 0.055*nigga + 0.042*niggas + 0.033*shit + 0.029*fuck + 0.029*money + 0.020*ass + 0.012*bout + 0.011*hands + 0.011*club + 0.010*bitch
+2015-03-04 20:18:35,895 : INFO : topic #14 (0.050): 0.039*fuck + 0.022*gangsta + 0.021*hes + 0.019*going + 0.013*whats + 0.012*pussy + 0.012*looking + 0.011*into + 0.010*lookin + 0.010*youyou
+2015-03-04 20:18:35,898 : INFO : topic #0 (0.050): 0.025*more + 0.022*fucking + 0.020*fuck + 0.015*niggas + 0.011*baby + 0.010*nigga + 0.010*shit + 0.008*through + 0.008*jayz + 0.008*been
+2015-03-04 20:18:35,899 : INFO : topic diff=0.480489, rho=0.316228
+2015-03-04 20:18:35,913 : INFO : PROGRESS: pass 1, at document #4000/7229
+2015-03-04 20:18:37,493 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:37,581 : INFO : topic #13 (0.050): 0.019*hook + 0.018*crunk + 0.016*york + 0.013*city + 0.013*feel + 0.012*hate + 0.012*hard + 0.010*x + 0.010*shit + 0.010*jam
+2015-03-04 20:18:37,584 : INFO : topic #12 (0.050): 0.026*think + 0.024*life + 0.020*little + 0.019*give + 0.015*really + 0.014*live + 0.014*people + 0.013*talk + 0.011*hot + 0.011*talking
+2015-03-04 20:18:37,587 : INFO : topic #7 (0.050): 0.101*niggas + 0.040*nigga + 0.020*fuck + 0.018*shit + 0.014*high + 0.014*weed + 0.013*smoke + 0.011*gang + 0.010*play + 0.009*hit
+2015-03-04 20:18:37,590 : INFO : topic #16 (0.050): 0.028*life + 0.022*money + 0.017*break + 0.016*again + 0.014*boy + 0.012*more + 0.012*big + 0.011*wild + 0.010*livin + 0.010*mind
+2015-03-04 20:18:37,592 : INFO : topic #3 (0.050): 0.035*baby + 0.027*gonna + 0.022*dem + 0.017*cool + 0.013*real + 0.013*j + 0.013*check + 0.012*wish + 0.011*bring + 0.010*guy
+2015-03-04 20:18:37,595 : INFO : topic #1 (0.050): 0.016*na + 0.015*big + 0.014*show + 0.014*king + 0.013*lyte + 0.012*house + 0.012*mc + 0.011*2x + 0.011*freak + 0.011*repeat
+2015-03-04 20:18:37,598 : INFO : topic #6 (0.050): 0.066*bitch + 0.058*nigga + 0.052*fuck + 0.051*shit + 0.048*niggas + 0.024*fuckin + 0.017*love + 0.013*money + 0.012*motherfuckin + 0.011*bitches
+2015-03-04 20:18:37,600 : INFO : topic #17 (0.050): 0.026*shit + 0.017*two + 0.016*wake + 0.015*word + 0.011*heat + 0.010*bitch + 0.010*little + 0.010*nigga + 0.009*cut + 0.009*room
+2015-03-04 20:18:37,605 : INFO : topic #18 (0.050): 0.119*love + 0.053*girl + 0.046*baby + 0.019*girls + 0.018*ho + 0.017*feel + 0.015*hoes + 0.011*ride + 0.010*please + 0.010*pimp
+2015-03-04 20:18:37,608 : INFO : topic #8 (0.050): 0.083*niggas + 0.051*nigga + 0.035*shit + 0.021*fuck + 0.014*die + 0.014*feel + 0.014*bitches + 0.014*hood + 0.013*gun + 0.013*real
+2015-03-04 20:18:37,611 : INFO : topic #5 (0.050): 0.053*nigga + 0.038*shit + 0.029*money + 0.028*niggas + 0.021*ass + 0.018*hot + 0.018*fuck + 0.014*motherfucker + 0.013*young + 0.013*lil
+2015-03-04 20:18:37,614 : INFO : topic #14 (0.050): 0.036*fuck + 0.022*hes + 0.020*pussy + 0.020*gangsta + 0.018*going + 0.016*lookin + 0.013*looking + 0.012*ask + 0.011*whats + 0.010*into
+2015-03-04 20:18:37,617 : INFO : topic #19 (0.050): 0.033*ass + 0.028*name + 0.024*dick + 0.022*two + 0.019*shit + 0.018*give + 0.016*call + 0.013*bitch + 0.012*fuck + 0.011*devil
+2015-03-04 20:18:37,620 : INFO : topic #0 (0.050): 0.023*more + 0.020*fucking + 0.018*fuck + 0.014*baby + 0.013*niggas + 0.010*nigga + 0.009*call + 0.009*shit + 0.009*throw + 0.008*stupid
+2015-03-04 20:18:37,622 : INFO : topic #9 (0.050): 0.056*nigga + 0.038*niggas + 0.035*money + 0.030*fuck + 0.029*shit + 0.022*ass + 0.015*bitch + 0.013*jump + 0.013*bout + 0.012*boy
+2015-03-04 20:18:37,624 : INFO : topic diff=0.450155, rho=0.301511
+2015-03-04 20:18:37,636 : INFO : PROGRESS: pass 1, at document #5000/7229
+2015-03-04 20:18:39,172 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:39,264 : INFO : topic #2 (0.050): 0.038*rock + 0.012*ready + 0.011*started + 0.011*mama + 0.011*remember + 0.010*black + 0.010*soul + 0.009*number + 0.009*more + 0.009*heart
+2015-03-04 20:18:39,266 : INFO : topic #5 (0.050): 0.053*nigga + 0.037*shit + 0.029*niggas + 0.028*money + 0.019*ass + 0.017*fuck + 0.017*hot + 0.014*cash + 0.014*motherfucker + 0.014*world
+2015-03-04 20:18:39,269 : INFO : topic #14 (0.050): 0.036*fuck + 0.025*gangsta + 0.024*hes + 0.018*going + 0.017*pussy + 0.015*lookin + 0.013*looking + 0.012*whats + 0.010*ask + 0.010*into
+2015-03-04 20:18:39,272 : INFO : topic #3 (0.050): 0.033*baby + 0.026*gonna + 0.021*dem + 0.016*real + 0.015*cool + 0.013*check + 0.012*wish + 0.011*j + 0.010*dat + 0.010*bring
+2015-03-04 20:18:39,275 : INFO : topic #11 (0.050): 0.023*look + 0.018*hip + 0.018*hop + 0.017*same + 0.012*been + 0.012*weezy + 0.010*star + 0.010*life + 0.010*real + 0.009*different
+2015-03-04 20:18:39,277 : INFO : topic #10 (0.050): 0.028*stop + 0.026*rap + 0.024*music + 0.022*mic + 0.019*rhymes + 0.019*people + 0.017*hear + 0.017*beat + 0.014*world + 0.013*rhyme
+2015-03-04 20:18:39,280 : INFO : topic #7 (0.050): 0.111*niggas + 0.039*nigga + 0.021*fuck + 0.019*shit + 0.012*high + 0.012*smoke + 0.012*weed + 0.012*real + 0.010*play + 0.009*hit
+2015-03-04 20:18:39,282 : INFO : topic #1 (0.050): 0.017*show + 0.016*king + 0.013*na + 0.013*big + 0.012*save + 0.011*mc + 0.011*lyte + 0.011*2x + 0.010*house + 0.010*mic
+2015-03-04 20:18:39,285 : INFO : topic #4 (0.050): 0.021*light + 0.015*through + 0.012*day + 0.011*fucked + 0.011*their + 0.011*diggy + 0.010*dream + 0.010*carter + 0.010*sorry + 0.009*night
+2015-03-04 20:18:39,288 : INFO : topic #17 (0.050): 0.026*shit + 0.019*two + 0.016*word + 0.013*wake + 0.010*heat + 0.009*nigga + 0.009*little + 0.009*son + 0.009*three + 0.008*queens
+2015-03-04 20:18:39,291 : INFO : topic #19 (0.050): 0.030*ass + 0.029*name + 0.023*dick + 0.022*two + 0.018*shit + 0.016*give + 0.015*call + 0.012*bitch + 0.011*fuck + 0.010*bullshit
+2015-03-04 20:18:39,293 : INFO : topic #6 (0.050): 0.062*nigga + 0.060*bitch + 0.054*fuck + 0.052*niggas + 0.052*shit + 0.021*fuckin + 0.017*love + 0.012*money + 0.012*motherfuckin + 0.010*ass
+2015-03-04 20:18:39,296 : INFO : topic #18 (0.050): 0.128*love + 0.050*girl + 0.043*baby + 0.018*girls + 0.016*feel + 0.016*ho + 0.012*hoes + 0.010*please + 0.010*think + 0.010*ride
+2015-03-04 20:18:39,299 : INFO : topic #12 (0.050): 0.027*life + 0.025*think + 0.019*give + 0.018*little + 0.015*live + 0.014*people + 0.012*really + 0.012*talk + 0.012*talking + 0.011*feel
+2015-03-04 20:18:39,301 : INFO : topic #9 (0.050): 0.056*nigga + 0.038*niggas + 0.032*money + 0.030*shit + 0.029*fuck + 0.021*ass + 0.014*hands + 0.014*bitch + 0.013*boy + 0.012*jump
+2015-03-04 20:18:39,303 : INFO : topic diff=0.387877, rho=0.288675
+2015-03-04 20:18:39,317 : INFO : PROGRESS: pass 1, at document #6000/7229
+2015-03-04 20:18:40,911 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:41,025 : INFO : topic #11 (0.050): 0.020*look + 0.016*hop + 0.015*hip + 0.015*same + 0.012*been + 0.011*life + 0.010*star + 0.010*weezy + 0.009*different + 0.009*real
+2015-03-04 20:18:41,027 : INFO : topic #13 (0.050): 0.024*york + 0.024*jam + 0.020*city + 0.019*hook + 0.014*hate + 0.013*house + 0.012*hard + 0.011*feel + 0.010*x + 0.009*crunk
+2015-03-04 20:18:41,031 : INFO : topic #3 (0.050): 0.030*baby + 0.028*gonna + 0.018*dem + 0.014*cool + 0.014*real + 0.013*check + 0.013*nah + 0.013*dat + 0.011*wish + 0.011*bring
+2015-03-04 20:18:41,034 : INFO : topic #19 (0.050): 0.031*name + 0.029*ass + 0.022*dick + 0.021*two + 0.018*shit + 0.018*call + 0.016*give + 0.011*bitch + 0.010*bullshit + 0.010*fuck
+2015-03-04 20:18:41,037 : INFO : topic #8 (0.050): 0.093*niggas + 0.053*nigga + 0.037*shit + 0.021*hood + 0.019*fuck + 0.019*real + 0.013*die + 0.012*ghetto + 0.012*gun + 0.012*feel
+2015-03-04 20:18:41,040 : INFO : topic #2 (0.050): 0.063*rock + 0.018*funk + 0.014*ready + 0.010*started + 0.010*number + 0.010*mama + 0.010*remember + 0.009*black + 0.009*more + 0.008*soul
+2015-03-04 20:18:41,044 : INFO : topic #14 (0.050): 0.035*gangsta + 0.030*fuck + 0.026*snoop + 0.023*hes + 0.019*master + 0.016*going + 0.015*lookin + 0.013*pussy + 0.013*whats + 0.012*looking
+2015-03-04 20:18:41,047 : INFO : topic #9 (0.050): 0.059*nigga + 0.036*niggas + 0.030*fuck + 0.029*shit + 0.029*money + 0.021*ass + 0.014*hands + 0.014*bitch + 0.013*boy + 0.012*jump
+2015-03-04 20:18:41,050 : INFO : topic #7 (0.050): 0.107*niggas + 0.044*nigga + 0.023*dogg + 0.021*fuck + 0.018*shit + 0.014*smoke + 0.013*weed + 0.013*high + 0.012*real + 0.009*hit
+2015-03-04 20:18:41,053 : INFO : topic #18 (0.050): 0.130*love + 0.049*girl + 0.037*baby + 0.021*girls + 0.016*ho + 0.015*feel + 0.013*mary + 0.012*hoes + 0.009*think + 0.009*please
+2015-03-04 20:18:41,056 : INFO : topic #4 (0.050): 0.025*light + 0.014*through + 0.013*day + 0.012*fucked + 0.012*dream + 0.011*times + 0.010*diggy + 0.010*their + 0.009*people + 0.009*world
+2015-03-04 20:18:41,059 : INFO : topic #1 (0.050): 0.027*king + 0.018*na + 0.017*show + 0.015*house + 0.012*big + 0.011*2x + 0.011*freak + 0.011*save + 0.010*mc + 0.009*mic
+2015-03-04 20:18:41,061 : INFO : topic #12 (0.050): 0.029*life + 0.023*think + 0.018*little + 0.018*give + 0.015*talk + 0.015*people + 0.014*live + 0.011*world + 0.011*talking + 0.011*really
+2015-03-04 20:18:41,064 : INFO : topic #17 (0.050): 0.022*shit + 0.019*two + 0.018*word + 0.013*little + 0.011*wake + 0.011*heat + 0.010*jay + 0.010*three + 0.009*door + 0.009*nigga
+2015-03-04 20:18:41,067 : INFO : topic #16 (0.050): 0.028*life + 0.019*money + 0.017*again + 0.015*break + 0.013*more + 0.013*boy + 0.013*livin + 0.012*big + 0.012*dope + 0.011*black
+2015-03-04 20:18:41,068 : INFO : topic diff=0.376495, rho=0.277350
+2015-03-04 20:18:41,084 : INFO : PROGRESS: pass 1, at document #7000/7229
+2015-03-04 20:18:42,736 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:42,824 : INFO : topic #3 (0.050): 0.034*baby + 0.033*gonna + 0.015*dem + 0.015*real + 0.014*cry + 0.013*cool + 0.012*check + 0.011*wish + 0.011*nah + 0.011*school
+2015-03-04 20:18:42,827 : INFO : topic #0 (0.050): 0.024*more + 0.016*fucking + 0.015*fuck + 0.013*baby + 0.011*niggas + 0.010*motherfucking + 0.010*call + 0.009*told + 0.009*nothin + 0.009*shit
+2015-03-04 20:18:42,829 : INFO : topic #16 (0.050): 0.031*life + 0.028*tech + 0.022*wild + 0.019*money + 0.014*again + 0.013*livin + 0.012*boy + 0.012*black + 0.012*break + 0.012*dope
+2015-03-04 20:18:42,832 : INFO : topic #2 (0.050): 0.058*rock + 0.020*funk + 0.016*ready + 0.016*mama + 0.012*started + 0.011*heart + 0.010*remember + 0.010*planet + 0.009*black + 0.008*number
+2015-03-04 20:18:42,835 : INFO : topic #12 (0.050): 0.032*life + 0.022*think + 0.018*give + 0.018*little + 0.014*people + 0.014*live + 0.014*really + 0.013*talk + 0.012*much + 0.011*world
+2015-03-04 20:18:42,838 : INFO : topic #10 (0.050): 0.036*stop + 0.031*rap + 0.030*music + 0.025*beat + 0.022*hear + 0.021*mic + 0.018*rhymes + 0.016*people + 0.015*rock + 0.013*world
+2015-03-04 20:18:42,841 : INFO : topic #18 (0.050): 0.126*love + 0.051*girl + 0.042*baby + 0.019*ho + 0.018*hoes + 0.017*girls + 0.017*pimp + 0.014*feel + 0.012*shes + 0.010*pimpin
+2015-03-04 20:18:42,843 : INFO : topic #8 (0.050): 0.091*niggas + 0.054*nigga + 0.034*shit + 0.021*thug + 0.019*fuck + 0.018*real + 0.017*die + 0.017*hood + 0.014*ghetto + 0.013*feel
+2015-03-04 20:18:42,846 : INFO : topic #14 (0.050): 0.031*gangsta + 0.028*fuck + 0.024*hes + 0.021*snoop + 0.018*going + 0.016*master + 0.016*lookin + 0.015*looking + 0.013*whats + 0.012*pussy
+2015-03-04 20:18:42,849 : INFO : topic #13 (0.050): 0.032*short + 0.024*city + 0.018*york + 0.017*hook + 0.017*jam + 0.016*hate + 0.015*house + 0.012*hard + 0.011*feel + 0.010*dog
+2015-03-04 20:18:42,851 : INFO : topic #11 (0.050): 0.023*look + 0.014*same + 0.013*been + 0.013*hop + 0.012*life + 0.011*hip + 0.011*forever + 0.010*star + 0.009*last + 0.009*real
+2015-03-04 20:18:42,855 : INFO : topic #4 (0.050): 0.023*light + 0.014*through + 0.014*day + 0.011*dream + 0.011*fucked + 0.011*world + 0.010*times + 0.010*people + 0.009*sorry + 0.008*gettin
+2015-03-04 20:18:42,857 : INFO : topic #1 (0.050): 0.023*freak + 0.021*king + 0.019*house + 0.016*show + 0.015*na + 0.014*big + 0.013*2x + 0.012*hort + 0.010*mc + 0.010*save
+2015-03-04 20:18:42,860 : INFO : topic #9 (0.050): 0.056*nigga + 0.033*niggas + 0.031*money + 0.029*fuck + 0.027*shit + 0.022*ass + 0.016*hands + 0.014*bitch + 0.014*bout + 0.012*shake
+2015-03-04 20:18:42,863 : INFO : topic #19 (0.050): 0.030*name + 0.027*ass + 0.025*dick + 0.020*call + 0.017*two + 0.017*give + 0.015*shit + 0.014*lord + 0.012*bitch + 0.010*suck
+2015-03-04 20:18:42,864 : INFO : topic diff=0.342518, rho=0.267261
+2015-03-04 20:18:43,595 : INFO : -7.531 per-word bound, 184.9 perplexity estimate based on a held-out corpus of 229 documents with 11131 words
+2015-03-04 20:18:43,595 : INFO : PROGRESS: pass 1, at document #7229/7229
+2015-03-04 20:18:43,924 : INFO : merging changes from 229 documents into a model of 7229 documents
+2015-03-04 20:18:44,016 : INFO : topic #0 (0.050): 0.031*more + 0.015*fucking + 0.014*fuck + 0.013*baby + 0.013*nothin + 0.012*call + 0.012*motherfucking + 0.011*niggas + 0.009*wasnt + 0.009*plane
+2015-03-04 20:18:44,019 : INFO : topic #11 (0.050): 0.025*look + 0.019*same + 0.019*star + 0.018*been + 0.011*whole + 0.011*life + 0.011*forever + 0.011*hop + 0.010*last + 0.009*hip
+2015-03-04 20:18:44,021 : INFO : topic #9 (0.050): 0.052*nigga + 0.036*money + 0.035*niggas + 0.029*shit + 0.027*fuck + 0.018*ass + 0.016*roll + 0.015*bitch + 0.014*bout + 0.013*hands
+2015-03-04 20:18:44,024 : INFO : topic #8 (0.050): 0.091*niggas + 0.052*nigga + 0.038*shit + 0.019*fuck + 0.017*thug + 0.016*hood + 0.016*real + 0.016*die + 0.015*feel + 0.012*life
+2015-03-04 20:18:44,027 : INFO : topic #18 (0.050): 0.125*love + 0.054*girl + 0.045*baby + 0.020*hoes + 0.018*ho + 0.017*feel + 0.016*girls + 0.014*pimp + 0.013*shes + 0.012*mary
+2015-03-04 20:18:44,030 : INFO : topic #4 (0.050): 0.020*light + 0.015*through + 0.015*day + 0.014*sorry + 0.013*fly + 0.011*fucked + 0.010*times + 0.010*world + 0.010*sun + 0.009*dream
+2015-03-04 20:18:44,032 : INFO : topic #5 (0.050): 0.053*nigga + 0.038*money + 0.036*shit + 0.030*niggas + 0.017*world + 0.017*fuck + 0.016*ass + 0.016*young + 0.014*cash + 0.013*round
+2015-03-04 20:18:44,035 : INFO : topic #7 (0.050): 0.108*niggas + 0.040*nigga + 0.035*weed + 0.022*smoke + 0.019*shit + 0.019*fuck + 0.019*high + 0.016*gang + 0.012*gettin + 0.012*taylor
+2015-03-04 20:18:44,038 : INFO : topic #15 (0.050): 0.046*i’m + 0.025*night + 0.017*black + 0.015*don’t + 0.015*party + 0.014*roll + 0.013*homie + 0.013*side + 0.012*shot + 0.012*nothing
+2015-03-04 20:18:44,041 : INFO : topic #14 (0.050): 0.030*fuck + 0.024*gangsta + 0.021*xzibit + 0.021*going + 0.019*whats + 0.019*pussy + 0.019*hes + 0.016*snoop + 0.015*looking + 0.013*master
+2015-03-04 20:18:44,044 : INFO : topic #13 (0.050): 0.025*short + 0.024*city + 0.024*x + 0.021*hook + 0.016*hate + 0.015*house + 0.014*york + 0.013*jam + 0.013*hard + 0.012*feel
+2015-03-04 20:18:44,046 : INFO : topic #12 (0.050): 0.033*life + 0.023*think + 0.017*give + 0.016*much + 0.016*little + 0.015*live + 0.015*talk + 0.014*feel + 0.014*really + 0.012*world
+2015-03-04 20:18:44,049 : INFO : topic #10 (0.050): 0.036*stop + 0.032*rap + 0.030*music + 0.024*beat + 0.020*hear + 0.019*mic + 0.017*rhymes + 0.016*people + 0.015*rock + 0.013*believe
+2015-03-04 20:18:44,052 : INFO : topic #19 (0.050): 0.033*name + 0.028*ass + 0.023*dick + 0.020*call + 0.018*two + 0.017*shit + 0.015*give + 0.012*lord + 0.011*bitch + 0.010*bullshit
+2015-03-04 20:18:44,055 : INFO : topic #3 (0.050): 0.029*baby + 0.029*gonna + 0.014*dem + 0.014*cool + 0.013*real + 0.013*wish + 0.012*cry + 0.011*bring + 0.010*dat + 0.010*check
+2015-03-04 20:18:44,056 : INFO : topic diff=0.261891, rho=0.258199
+2015-03-04 20:18:44,076 : INFO : PROGRESS: pass 2, at document #1000/7229
+2015-03-04 20:18:45,563 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:45,652 : INFO : topic #12 (0.050): 0.032*life + 0.022*think + 0.019*little + 0.017*give + 0.016*talk + 0.015*live + 0.014*really + 0.013*much + 0.012*feel + 0.012*people
+2015-03-04 20:18:45,655 : INFO : topic #1 (0.050): 0.018*king + 0.017*show + 0.016*na + 0.015*big + 0.015*freak + 0.014*house + 0.013*2x + 0.012*whole + 0.010*u + 0.009*save
+2015-03-04 20:18:45,658 : INFO : topic #9 (0.050): 0.051*nigga + 0.035*niggas + 0.033*money + 0.030*shit + 0.025*fuck + 0.017*ass + 0.014*roll + 0.014*club + 0.014*hands + 0.012*bitch
+2015-03-04 20:18:45,660 : INFO : topic #8 (0.050): 0.098*niggas + 0.049*nigga + 0.040*shit + 0.018*fuck + 0.015*real + 0.014*hood + 0.013*die + 0.013*feel + 0.012*thug + 0.011*through
+2015-03-04 20:18:45,663 : INFO : topic #5 (0.050): 0.051*nigga + 0.037*shit + 0.035*money + 0.030*niggas + 0.017*world + 0.015*fuck + 0.015*ass + 0.013*hot + 0.013*young + 0.012*round
+2015-03-04 20:18:45,666 : INFO : topic #7 (0.050): 0.110*niggas + 0.038*nigga + 0.027*weed + 0.020*shit + 0.018*smoke + 0.018*fuck + 0.017*high + 0.012*gang + 0.010*gettin + 0.009*been
+2015-03-04 20:18:45,669 : INFO : topic #13 (0.050): 0.023*city + 0.022*york + 0.019*short + 0.018*x + 0.018*hook + 0.017*hate + 0.012*house + 0.012*hard + 0.010*jam + 0.010*feel
+2015-03-04 20:18:45,671 : INFO : topic #18 (0.050): 0.129*love + 0.057*girl + 0.043*baby + 0.017*girls + 0.017*feel + 0.015*hoes + 0.015*ho + 0.012*shes + 0.012*pimp + 0.009*ride
+2015-03-04 20:18:45,674 : INFO : topic #10 (0.050): 0.033*rap + 0.032*rhymes + 0.031*stop + 0.026*music + 0.024*mic + 0.020*beat + 0.017*hear + 0.016*people + 0.016*rhyme + 0.015*rock
+2015-03-04 20:18:45,677 : INFO : topic #17 (0.050): 0.022*shit + 0.018*wake + 0.016*two + 0.016*word + 0.015*heat + 0.011*room + 0.011*little + 0.010*whole + 0.010*cut + 0.009*three
+2015-03-04 20:18:45,680 : INFO : topic #19 (0.050): 0.036*name + 0.024*ass + 0.022*two + 0.018*dick + 0.017*call + 0.017*shit + 0.017*give + 0.010*bounce + 0.010*lord + 0.009*start
+2015-03-04 20:18:45,682 : INFO : topic #2 (0.050): 0.055*rock + 0.017*ready + 0.014*started + 0.013*funk + 0.013*biz + 0.012*number + 0.011*remember + 0.011*mama + 0.009*heart + 0.008*more
+2015-03-04 20:18:45,685 : INFO : topic #6 (0.050): 0.064*nigga + 0.060*bitch + 0.057*shit + 0.053*fuck + 0.050*niggas + 0.020*fuckin + 0.016*bitches + 0.015*love + 0.013*ass + 0.012*money
+2015-03-04 20:18:45,688 : INFO : topic #15 (0.050): 0.039*i’m + 0.026*night + 0.016*black + 0.014*party + 0.013*don’t + 0.013*movin + 0.012*roll + 0.012*side + 0.011*nothing + 0.011*homie
+2015-03-04 20:18:45,690 : INFO : topic #16 (0.050): 0.032*life + 0.020*money + 0.018*break + 0.017*tech + 0.017*again + 0.016*wild + 0.013*more + 0.012*big + 0.011*brother + 0.011*livin
+2015-03-04 20:18:45,692 : INFO : topic diff=0.270151, rho=0.258199
+2015-03-04 20:18:45,706 : INFO : PROGRESS: pass 2, at document #2000/7229
+2015-03-04 20:18:47,260 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:47,349 : INFO : topic #12 (0.050): 0.031*life + 0.027*think + 0.021*little + 0.018*give + 0.014*talk + 0.014*much + 0.013*live + 0.013*really + 0.013*feel + 0.012*people
+2015-03-04 20:18:47,352 : INFO : topic #18 (0.050): 0.121*love + 0.055*girl + 0.042*baby + 0.018*girls + 0.015*feel + 0.015*ho + 0.012*hoes + 0.011*shes + 0.011*pimp + 0.010*think
+2015-03-04 20:18:47,355 : INFO : topic #17 (0.050): 0.024*shit + 0.019*two + 0.016*word + 0.013*little + 0.013*wake + 0.013*heat + 0.010*door + 0.010*cut + 0.010*room + 0.009*three
+2015-03-04 20:18:47,358 : INFO : topic #9 (0.050): 0.050*nigga + 0.038*niggas + 0.031*shit + 0.029*money + 0.025*fuck + 0.020*ass + 0.013*boy + 0.013*hands + 0.012*bitch + 0.012*club
+2015-03-04 20:18:47,360 : INFO : topic #5 (0.050): 0.051*nigga + 0.039*shit + 0.031*money + 0.031*niggas + 0.018*ass + 0.016*fuck + 0.015*world + 0.013*hot + 0.012*cash + 0.012*motherfucker
+2015-03-04 20:18:47,363 : INFO : topic #13 (0.050): 0.019*city + 0.018*york + 0.017*x + 0.016*short + 0.015*hook + 0.015*hate + 0.012*hard + 0.011*house + 0.011*feel + 0.010*jam
+2015-03-04 20:18:47,366 : INFO : topic #19 (0.050): 0.036*name + 0.027*ass + 0.022*two + 0.018*shit + 0.017*dick + 0.016*give + 0.016*call + 0.012*lord + 0.010*dance + 0.009*fuck
+2015-03-04 20:18:47,368 : INFO : topic #6 (0.050): 0.062*nigga + 0.061*shit + 0.060*bitch + 0.059*fuck + 0.051*niggas + 0.024*fuckin + 0.015*bitches + 0.014*ass + 0.014*love + 0.011*motherfuckin
+2015-03-04 20:18:47,371 : INFO : topic #4 (0.050): 0.021*light + 0.018*through + 0.015*day + 0.013*sorry + 0.011*fucked + 0.011*dream + 0.010*fly + 0.009*their + 0.009*world + 0.009*night
+2015-03-04 20:18:47,374 : INFO : topic #2 (0.050): 0.049*rock + 0.016*started + 0.015*ready + 0.012*funk + 0.011*number + 0.011*remember + 0.010*biz + 0.010*mama + 0.009*tried + 0.009*didnt
+2015-03-04 20:18:47,377 : INFO : topic #8 (0.050): 0.103*niggas + 0.050*nigga + 0.042*shit + 0.018*fuck + 0.016*hood + 0.016*real + 0.014*die + 0.014*feel + 0.013*through + 0.011*ghetto
+2015-03-04 20:18:47,379 : INFO : topic #11 (0.050): 0.023*look + 0.019*same + 0.019*been + 0.013*star + 0.013*hop + 0.012*through + 0.010*whole + 0.010*hip + 0.010*forever + 0.010*last
+2015-03-04 20:18:47,382 : INFO : topic #0 (0.050): 0.028*more + 0.022*fucking + 0.016*fuck + 0.012*baby + 0.011*niggas + 0.010*call + 0.010*nothin + 0.009*motherfucking + 0.009*wasnt + 0.009*shit
+2015-03-04 20:18:47,385 : INFO : topic #14 (0.050): 0.034*fuck + 0.022*hes + 0.021*going + 0.020*gangsta + 0.016*whats + 0.012*lookin + 0.011*pussy + 0.011*xzibit + 0.011*looking + 0.010*use
+2015-03-04 20:18:47,388 : INFO : topic #15 (0.050): 0.036*i’m + 0.024*night + 0.017*black + 0.014*party + 0.014*don’t + 0.013*side + 0.012*nothing + 0.011*shot + 0.011*homie + 0.010*movin
+2015-03-04 20:18:47,389 : INFO : topic diff=0.227744, rho=0.250000
+2015-03-04 20:18:47,404 : INFO : PROGRESS: pass 2, at document #3000/7229
+2015-03-04 20:18:48,756 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:48,847 : INFO : topic #13 (0.050): 0.020*york + 0.019*city + 0.018*hate + 0.015*hook + 0.014*x + 0.013*short + 0.012*feel + 0.011*hard + 0.010*house + 0.009*feeling
+2015-03-04 20:18:48,851 : INFO : topic #3 (0.050): 0.027*gonna + 0.022*baby + 0.016*wish + 0.014*guy + 0.014*dem + 0.013*real + 0.012*bring + 0.011*check + 0.011*nah + 0.010*school
+2015-03-04 20:18:48,853 : INFO : topic #6 (0.050): 0.063*nigga + 0.062*shit + 0.061*fuck + 0.056*bitch + 0.051*niggas + 0.027*fuckin + 0.015*ass + 0.015*bitches + 0.013*motherfuckin + 0.012*love
+2015-03-04 20:18:48,856 : INFO : topic #17 (0.050): 0.023*shit + 0.021*two + 0.015*wake + 0.015*word + 0.012*little + 0.012*heat + 0.012*three + 0.011*door + 0.010*room + 0.009*whole
+2015-03-04 20:18:48,859 : INFO : topic #2 (0.050): 0.044*rock + 0.016*ready + 0.015*started + 0.010*funk + 0.010*mama + 0.010*remember + 0.009*number + 0.009*heart + 0.009*yourself + 0.009*black
+2015-03-04 20:18:48,862 : INFO : topic #8 (0.050): 0.098*niggas + 0.051*nigga + 0.041*shit + 0.018*fuck + 0.016*real + 0.016*hood + 0.015*die + 0.013*feel + 0.012*through + 0.012*thug
+2015-03-04 20:18:48,865 : INFO : topic #15 (0.050): 0.032*i’m + 0.022*night + 0.019*black + 0.015*side + 0.014*party + 0.013*don’t + 0.012*nothing + 0.010*west + 0.010*movin + 0.010*shot
+2015-03-04 20:18:48,867 : INFO : topic #0 (0.050): 0.029*more + 0.020*fucking + 0.016*fuck + 0.012*baby + 0.010*niggas + 0.009*motherfucking + 0.009*call + 0.008*nothin + 0.008*wasnt + 0.008*shit
+2015-03-04 20:18:48,870 : INFO : topic #19 (0.050): 0.033*name + 0.027*ass + 0.021*two + 0.018*shit + 0.017*dick + 0.016*give + 0.015*call + 0.012*lord + 0.010*bullshit + 0.010*devil
+2015-03-04 20:18:48,873 : INFO : topic #11 (0.050): 0.023*look + 0.019*same + 0.016*been + 0.015*hop + 0.014*star + 0.012*hip + 0.011*forever + 0.010*through + 0.009*life + 0.009*last
+2015-03-04 20:18:48,876 : INFO : topic #14 (0.050): 0.032*fuck + 0.024*gangsta + 0.024*hes + 0.022*going + 0.016*whats + 0.012*lookin + 0.012*looking + 0.011*pussy + 0.010*into + 0.009*youyou
+2015-03-04 20:18:48,878 : INFO : topic #4 (0.050): 0.023*light + 0.016*through + 0.016*sorry + 0.015*day + 0.012*dream + 0.011*their + 0.011*fucked + 0.010*world + 0.009*fly + 0.009*night
+2015-03-04 20:18:48,881 : INFO : topic #1 (0.050): 0.020*na + 0.016*show + 0.016*big + 0.015*king + 0.014*house + 0.013*2x + 0.012*kool + 0.011*freak + 0.011*save + 0.010*repeat
+2015-03-04 20:18:48,884 : INFO : topic #10 (0.050): 0.035*rap + 0.029*music + 0.024*stop + 0.023*rhymes + 0.021*mic + 0.016*rhyme + 0.015*beat + 0.015*hear + 0.014*people + 0.013*rock
+2015-03-04 20:18:48,888 : INFO : topic #18 (0.050): 0.124*love + 0.058*girl + 0.043*baby + 0.022*girls + 0.016*feel + 0.013*ho + 0.011*shes + 0.010*please + 0.010*hoes + 0.010*pimp
+2015-03-04 20:18:48,890 : INFO : topic diff=0.208595, rho=0.242536
+2015-03-04 20:18:48,905 : INFO : PROGRESS: pass 2, at document #4000/7229
+2015-03-04 20:18:50,426 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:50,516 : INFO : topic #14 (0.050): 0.031*fuck + 0.024*hes + 0.022*gangsta + 0.021*going + 0.017*lookin + 0.016*pussy + 0.014*whats + 0.013*looking + 0.011*ask + 0.010*into
+2015-03-04 20:18:50,519 : INFO : topic #3 (0.050): 0.028*baby + 0.027*gonna + 0.022*dem + 0.021*cool + 0.013*wish + 0.013*real + 0.012*j + 0.012*check + 0.012*guy + 0.011*bring
+2015-03-04 20:18:50,522 : INFO : topic #0 (0.050): 0.028*more + 0.019*fucking + 0.014*fuck + 0.013*baby + 0.011*motherfucking + 0.010*call + 0.009*niggas + 0.009*tonight + 0.008*stupid + 0.008*nothin
+2015-03-04 20:18:50,524 : INFO : topic #13 (0.050): 0.020*hook + 0.019*city + 0.019*york + 0.016*crunk + 0.015*hate + 0.013*feel + 0.012*short + 0.011*hard + 0.011*jam + 0.011*x
+2015-03-04 20:18:50,527 : INFO : topic #15 (0.050): 0.033*i’m + 0.020*night + 0.017*black + 0.016*side + 0.015*don’t + 0.012*party + 0.012*shot + 0.012*movin + 0.011*nothing + 0.011*ain’t
+2015-03-04 20:18:50,530 : INFO : topic #7 (0.050): 0.103*niggas + 0.039*nigga + 0.020*weed + 0.018*shit + 0.018*fuck + 0.017*smoke + 0.017*high + 0.012*gang + 0.010*play + 0.009*real
+2015-03-04 20:18:50,533 : INFO : topic #17 (0.050): 0.021*shit + 0.019*two + 0.017*wake + 0.017*word + 0.012*heat + 0.011*little + 0.011*three + 0.010*door + 0.010*room + 0.009*shut
+2015-03-04 20:18:50,536 : INFO : topic #16 (0.050): 0.028*life + 0.019*money + 0.017*break + 0.017*again + 0.012*big + 0.012*mind + 0.012*wild + 0.012*more + 0.012*boy + 0.011*brother
+2015-03-04 20:18:50,538 : INFO : topic #9 (0.050): 0.051*nigga + 0.034*niggas + 0.033*money + 0.027*shit + 0.025*fuck + 0.021*ass + 0.016*boy + 0.014*bitch + 0.014*club + 0.014*bout
+2015-03-04 20:18:50,541 : INFO : topic #11 (0.050): 0.025*look + 0.019*same + 0.016*been + 0.015*hop + 0.015*weezy + 0.014*hip + 0.011*different + 0.011*star + 0.010*forever + 0.009*enough
+2015-03-04 20:18:50,544 : INFO : topic #10 (0.050): 0.031*rap + 0.027*music + 0.026*stop + 0.023*rhymes + 0.020*mic + 0.017*beat + 0.016*hear + 0.015*rhyme + 0.014*people + 0.014*drop
+2015-03-04 20:18:50,547 : INFO : topic #2 (0.050): 0.046*rock + 0.015*ready + 0.014*started + 0.014*mama + 0.012*remember + 0.011*number + 0.010*funk + 0.010*heart + 0.009*soul + 0.009*tried
+2015-03-04 20:18:50,550 : INFO : topic #19 (0.050): 0.034*name + 0.029*ass + 0.022*two + 0.018*dick + 0.017*call + 0.017*give + 0.016*shit + 0.011*lord + 0.011*devil + 0.010*dance
+2015-03-04 20:18:50,552 : INFO : topic #8 (0.050): 0.091*niggas + 0.052*nigga + 0.038*shit + 0.018*fuck + 0.016*die + 0.016*real + 0.015*hood + 0.013*gun + 0.013*feel + 0.011*ghetto
+2015-03-04 20:18:50,555 : INFO : topic #12 (0.050): 0.029*life + 0.027*think + 0.019*little + 0.018*give + 0.016*people + 0.015*really + 0.015*live + 0.014*talk + 0.012*feel + 0.011*much
+2015-03-04 20:18:50,556 : INFO : topic diff=0.196149, rho=0.235702
+2015-03-04 20:18:50,568 : INFO : PROGRESS: pass 2, at document #5000/7229
+2015-03-04 20:18:51,992 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:52,082 : INFO : topic #2 (0.050): 0.044*rock + 0.014*ready + 0.013*started + 0.013*remember + 0.012*mama + 0.010*soul + 0.010*black + 0.010*number + 0.009*heart + 0.009*tried
+2015-03-04 20:18:52,085 : INFO : topic #7 (0.050): 0.109*niggas + 0.038*nigga + 0.020*shit + 0.018*fuck + 0.017*weed + 0.016*smoke + 0.015*high + 0.011*real + 0.010*gang + 0.010*play
+2015-03-04 20:18:52,088 : INFO : topic #8 (0.050): 0.100*niggas + 0.052*nigga + 0.039*shit + 0.021*real + 0.017*fuck + 0.017*hood + 0.014*die + 0.014*gun + 0.012*through + 0.012*feel
+2015-03-04 20:18:52,090 : INFO : topic #14 (0.050): 0.031*fuck + 0.026*gangsta + 0.025*hes + 0.021*going + 0.015*whats + 0.015*lookin + 0.014*pussy + 0.013*looking + 0.010*use + 0.010*ask
+2015-03-04 20:18:52,093 : INFO : topic #18 (0.050): 0.138*love + 0.059*girl + 0.054*baby + 0.020*girls + 0.016*feel + 0.016*ho + 0.012*shes + 0.010*think + 0.010*please + 0.009*pimp
+2015-03-04 20:18:52,096 : INFO : topic #10 (0.050): 0.033*rap + 0.028*mic + 0.027*stop + 0.025*music + 0.025*rhymes + 0.018*rhyme + 0.017*beat + 0.017*hear + 0.015*people + 0.015*rock
+2015-03-04 20:18:52,098 : INFO : topic #15 (0.050): 0.029*i’m + 0.021*black + 0.019*night + 0.016*side + 0.013*don’t + 0.012*nothing + 0.012*shot + 0.011*party + 0.011*movin + 0.010*south
+2015-03-04 20:18:52,101 : INFO : topic #9 (0.050): 0.050*nigga + 0.033*niggas + 0.030*money + 0.027*shit + 0.025*fuck + 0.020*ass + 0.017*boy + 0.015*hands + 0.013*bitch + 0.012*jump
+2015-03-04 20:18:52,104 : INFO : topic #11 (0.050): 0.023*look + 0.019*same + 0.018*hop + 0.018*hip + 0.015*been + 0.012*weezy + 0.011*star + 0.010*different + 0.009*through + 0.009*forever
+2015-03-04 20:18:52,107 : INFO : topic #12 (0.050): 0.031*life + 0.025*think + 0.018*give + 0.018*little + 0.016*people + 0.015*live + 0.013*feel + 0.013*really + 0.013*talk + 0.012*world
+2015-03-04 20:18:52,110 : INFO : topic #13 (0.050): 0.031*york + 0.020*city + 0.018*hook + 0.017*hate + 0.013*jam + 0.013*crunk + 0.012*feel + 0.011*x + 0.010*hard + 0.009*short
+2015-03-04 20:18:52,113 : INFO : topic #16 (0.050): 0.029*life + 0.018*money + 0.018*again + 0.016*break + 0.013*more + 0.013*black + 0.013*big + 0.012*mind + 0.011*brother + 0.011*wild
+2015-03-04 20:18:52,115 : INFO : topic #4 (0.050): 0.023*light + 0.015*through + 0.014*day + 0.011*their + 0.011*dream + 0.011*world + 0.011*sorry + 0.011*people + 0.010*fucked + 0.010*diggy
+2015-03-04 20:18:52,118 : INFO : topic #1 (0.050): 0.018*show + 0.018*king + 0.015*lyte + 0.014*big + 0.014*na + 0.013*save + 0.012*2x + 0.012*house + 0.011*repeat + 0.011*mc
+2015-03-04 20:18:52,121 : INFO : topic #6 (0.050): 0.068*nigga + 0.063*bitch + 0.063*fuck + 0.059*shit + 0.055*niggas + 0.022*fuckin + 0.017*ass + 0.015*bitches + 0.013*money + 0.012*love
+2015-03-04 20:18:52,122 : INFO : topic diff=0.165713, rho=0.229416
+2015-03-04 20:18:52,137 : INFO : PROGRESS: pass 2, at document #6000/7229
+2015-03-04 20:18:53,686 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:53,779 : INFO : topic #15 (0.050): 0.028*i’m + 0.021*black + 0.018*night + 0.018*side + 0.014*shot + 0.013*party + 0.012*south + 0.012*don’t + 0.011*homies + 0.011*nothing
+2015-03-04 20:18:53,781 : INFO : topic #11 (0.050): 0.021*look + 0.016*same + 0.016*hop + 0.015*hip + 0.015*been + 0.011*star + 0.010*different + 0.010*life + 0.010*weezy + 0.010*enough
+2015-03-04 20:18:53,784 : INFO : topic #10 (0.050): 0.032*rap + 0.028*mic + 0.027*stop + 0.026*music + 0.025*rhymes + 0.021*beat + 0.019*rhyme + 0.019*rock + 0.016*hear + 0.015*people
+2015-03-04 20:18:53,787 : INFO : topic #14 (0.050): 0.035*gangsta + 0.027*fuck + 0.025*hes + 0.024*snoop + 0.019*going + 0.019*master + 0.015*whats + 0.015*lookin + 0.012*looking + 0.011*pussy
+2015-03-04 20:18:53,790 : INFO : topic #8 (0.050): 0.099*niggas + 0.053*nigga + 0.039*shit + 0.021*hood + 0.021*real + 0.017*fuck + 0.014*die + 0.013*gun + 0.012*ghetto + 0.011*through
+2015-03-04 20:18:53,792 : INFO : topic #0 (0.050): 0.029*more + 0.016*fucking + 0.013*fuck + 0.012*baby + 0.012*motherfucking + 0.011*call + 0.009*stupid + 0.009*nothin + 0.008*niggas + 0.008*blue
+2015-03-04 20:18:53,795 : INFO : topic #1 (0.050): 0.027*king + 0.018*na + 0.018*show + 0.016*house + 0.013*big + 0.012*2x + 0.012*freak + 0.011*save + 0.011*lyte + 0.010*mc
+2015-03-04 20:18:53,798 : INFO : topic #12 (0.050): 0.032*life + 0.024*think + 0.017*people + 0.017*give + 0.017*little + 0.015*talk + 0.015*live + 0.014*world + 0.012*feel + 0.011*really
+2015-03-04 20:18:53,800 : INFO : topic #17 (0.050): 0.021*two + 0.020*word + 0.019*shit + 0.015*little + 0.013*wake + 0.012*heat + 0.012*three + 0.010*door + 0.010*jay + 0.009*son
+2015-03-04 20:18:53,803 : INFO : topic #16 (0.050): 0.027*life + 0.018*money + 0.017*again + 0.016*break + 0.013*black + 0.013*mind + 0.013*big + 0.013*more + 0.012*livin + 0.012*brother
+2015-03-04 20:18:53,806 : INFO : topic #9 (0.050): 0.052*nigga + 0.032*niggas + 0.028*money + 0.026*shit + 0.025*fuck + 0.020*ass + 0.016*boy + 0.015*hands + 0.013*bitch + 0.013*jump
+2015-03-04 20:18:53,809 : INFO : topic #3 (0.050): 0.026*gonna + 0.025*baby + 0.019*dem + 0.019*cool + 0.013*real + 0.013*nah + 0.013*dat + 0.012*wish + 0.012*check + 0.011*bring
+2015-03-04 20:18:53,812 : INFO : topic #5 (0.050): 0.053*nigga + 0.034*money + 0.032*shit + 0.026*niggas + 0.018*hot + 0.016*ass + 0.016*world + 0.016*young + 0.015*fuck + 0.015*lil
+2015-03-04 20:18:53,814 : INFO : topic #4 (0.050): 0.027*light + 0.014*through + 0.014*day + 0.013*dream + 0.011*fucked + 0.011*people + 0.011*world + 0.010*times + 0.010*their + 0.010*diggy
+2015-03-04 20:18:53,817 : INFO : topic #19 (0.050): 0.037*name + 0.026*ass + 0.021*two + 0.019*call + 0.017*dick + 0.015*shit + 0.015*give + 0.010*bullshit + 0.010*kick + 0.010*lord
+2015-03-04 20:18:53,818 : INFO : topic diff=0.161443, rho=0.223607
+2015-03-04 20:18:53,833 : INFO : PROGRESS: pass 2, at document #7000/7229
+2015-03-04 20:18:55,269 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:55,361 : INFO : topic #3 (0.050): 0.030*gonna + 0.027*baby + 0.018*cool + 0.017*dem + 0.014*real + 0.013*cry + 0.012*wish + 0.012*nah + 0.011*school + 0.011*check
+2015-03-04 20:18:55,363 : INFO : topic #17 (0.050): 0.020*two + 0.019*word + 0.018*shit + 0.017*wake + 0.014*little + 0.012*heat + 0.011*three + 0.010*door + 0.009*cut + 0.009*jay
+2015-03-04 20:18:55,366 : INFO : topic #10 (0.050): 0.037*rap + 0.033*stop + 0.030*music + 0.027*mic + 0.024*beat + 0.023*rhymes + 0.020*hear + 0.017*rhyme + 0.017*rock + 0.013*people
+2015-03-04 20:18:55,369 : INFO : topic #19 (0.050): 0.036*name + 0.024*ass + 0.021*call + 0.019*dick + 0.018*two + 0.016*give + 0.015*lord + 0.013*shit + 0.010*devil + 0.010*road
+2015-03-04 20:18:55,372 : INFO : topic #13 (0.050): 0.031*short + 0.028*city + 0.020*york + 0.019*hook + 0.017*jam + 0.017*hate + 0.014*house + 0.011*feel + 0.011*hard + 0.008*grind
+2015-03-04 20:18:55,375 : INFO : topic #18 (0.050): 0.135*love + 0.058*girl + 0.051*baby + 0.019*ho + 0.018*girls + 0.015*pimp + 0.015*feel + 0.014*shes + 0.013*hoes + 0.009*pimpin
+2015-03-04 20:18:55,378 : INFO : topic #9 (0.050): 0.050*nigga + 0.030*niggas + 0.028*money + 0.025*shit + 0.025*fuck + 0.020*ass + 0.017*hands + 0.016*boy + 0.014*bout + 0.013*bitch
+2015-03-04 20:18:55,381 : INFO : topic #14 (0.050): 0.032*gangsta + 0.027*hes + 0.025*fuck + 0.021*going + 0.020*snoop + 0.016*master + 0.016*lookin + 0.015*whats + 0.014*looking + 0.010*pussy
+2015-03-04 20:18:55,384 : INFO : topic #11 (0.050): 0.023*look + 0.016*same + 0.015*been + 0.014*hop + 0.012*hip + 0.011*star + 0.011*forever + 0.010*life + 0.010*last + 0.009*different
+2015-03-04 20:18:55,387 : INFO : topic #0 (0.050): 0.028*more + 0.015*fucking + 0.013*motherfucking + 0.013*baby + 0.012*fuck + 0.011*call + 0.011*nothin + 0.009*stupid + 0.008*wasnt + 0.008*told
+2015-03-04 20:18:55,390 : INFO : topic #15 (0.050): 0.032*i’m + 0.022*black + 0.020*night + 0.016*side + 0.014*party + 0.014*homies + 0.013*everybody + 0.013*homie + 0.012*shot + 0.012*don’t
+2015-03-04 20:18:55,392 : INFO : topic #7 (0.050): 0.101*niggas + 0.043*nigga + 0.018*fuck + 0.017*shit + 0.017*dogg + 0.016*weed + 0.016*smoke + 0.016*high + 0.012*gettin + 0.011*real
+2015-03-04 20:18:55,395 : INFO : topic #2 (0.050): 0.060*rock + 0.019*funk + 0.018*ready + 0.016*mama + 0.014*started + 0.012*remember + 0.011*heart + 0.009*planet + 0.009*soul + 0.009*number
+2015-03-04 20:18:55,398 : INFO : topic #12 (0.050): 0.035*life + 0.023*think + 0.017*give + 0.016*little + 0.016*people + 0.014*live + 0.014*really + 0.014*world + 0.013*talk + 0.013*feel
+2015-03-04 20:18:55,400 : INFO : topic #8 (0.050): 0.097*niggas + 0.054*nigga + 0.036*shit + 0.019*real + 0.019*thug + 0.018*die + 0.018*hood + 0.017*fuck + 0.014*ghetto + 0.012*life
+2015-03-04 20:18:55,402 : INFO : topic diff=0.153762, rho=0.218218
+2015-03-04 20:18:56,118 : INFO : -7.315 per-word bound, 159.2 perplexity estimate based on a held-out corpus of 229 documents with 11131 words
+2015-03-04 20:18:56,118 : INFO : PROGRESS: pass 2, at document #7229/7229
+2015-03-04 20:18:56,425 : INFO : merging changes from 229 documents into a model of 7229 documents
+2015-03-04 20:18:56,516 : INFO : topic #18 (0.050): 0.134*love + 0.060*girl + 0.054*baby + 0.018*ho + 0.017*girls + 0.017*feel + 0.014*shes + 0.014*hoes + 0.013*pimp + 0.011*mary
+2015-03-04 20:18:56,519 : INFO : topic #13 (0.050): 0.027*city + 0.026*short + 0.022*hook + 0.020*x + 0.017*york + 0.016*hate + 0.014*house + 0.014*jam + 0.012*feel + 0.011*hard
+2015-03-04 20:18:56,522 : INFO : topic #8 (0.050): 0.096*niggas + 0.052*nigga + 0.040*shit + 0.018*real + 0.017*fuck + 0.017*die + 0.017*hood + 0.016*thug + 0.013*life + 0.013*feel
+2015-03-04 20:18:56,524 : INFO : topic #10 (0.050): 0.037*rap + 0.033*stop + 0.030*music + 0.025*mic + 0.023*beat + 0.022*rhymes + 0.019*hear + 0.017*rock + 0.016*rhyme + 0.014*drop
+2015-03-04 20:18:56,527 : INFO : topic #1 (0.050): 0.022*king + 0.019*freak + 0.017*house + 0.015*show + 0.014*big + 0.013*na + 0.013*2x + 0.011*save + 0.011*hort + 0.010*cold
+2015-03-04 20:18:56,530 : INFO : topic #14 (0.050): 0.026*fuck + 0.025*gangsta + 0.022*going + 0.021*hes + 0.020*whats + 0.020*xzibit + 0.016*pussy + 0.016*snoop + 0.014*looking + 0.014*master
+2015-03-04 20:18:56,532 : INFO : topic #16 (0.050): 0.030*life + 0.022*tech + 0.020*money + 0.019*wild + 0.017*break + 0.016*again + 0.014*brother + 0.013*black + 0.012*livin + 0.011*there
+2015-03-04 20:18:56,536 : INFO : topic #3 (0.050): 0.027*gonna + 0.024*baby + 0.018*cool + 0.016*dem + 0.013*wish + 0.012*real + 0.012*cry + 0.011*bring + 0.010*dat + 0.010*nah
+2015-03-04 20:18:56,538 : INFO : topic #2 (0.050): 0.059*rock + 0.019*ready + 0.018*funk + 0.016*started + 0.016*mama + 0.014*remember + 0.012*number + 0.010*heart + 0.010*soul + 0.010*planet
+2015-03-04 20:18:56,541 : INFO : topic #0 (0.050): 0.034*more + 0.014*fucking + 0.014*motherfucking + 0.014*nothin + 0.013*call + 0.012*baby + 0.011*fuck + 0.010*wasnt + 0.009*rich + 0.009*feelin
+2015-03-04 20:18:56,544 : INFO : topic #11 (0.050): 0.024*look + 0.019*same + 0.018*been + 0.018*star + 0.012*hop + 0.011*whole + 0.011*forever + 0.011*hip + 0.010*through + 0.010*miss
+2015-03-04 20:18:56,546 : INFO : topic #7 (0.050): 0.107*niggas + 0.038*nigga + 0.036*weed + 0.024*smoke + 0.020*high + 0.019*shit + 0.018*fuck + 0.016*gang + 0.013*gettin + 0.012*dogg
+2015-03-04 20:18:56,549 : INFO : topic #9 (0.050): 0.046*nigga + 0.032*money + 0.030*niggas + 0.025*shit + 0.024*fuck + 0.017*ass + 0.015*boy + 0.015*roll + 0.015*hands + 0.014*bout
+2015-03-04 20:18:56,552 : INFO : topic #17 (0.050): 0.020*wake + 0.018*shit + 0.018*two + 0.017*heat + 0.016*word + 0.013*room + 0.012*little + 0.011*three + 0.010*door + 0.009*whole
+2015-03-04 20:18:56,555 : INFO : topic #4 (0.050): 0.022*light + 0.015*day + 0.014*sorry + 0.013*through + 0.012*fly + 0.011*world + 0.010*dream + 0.010*fucked + 0.010*times + 0.010*people
+2015-03-04 20:18:56,556 : INFO : topic diff=0.132372, rho=0.213201
+2015-03-04 20:18:56,582 : INFO : PROGRESS: pass 3, at document #1000/7229
+2015-03-04 20:18:58,054 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:58,145 : INFO : topic #13 (0.050): 0.027*city + 0.024*york + 0.021*short + 0.019*hook + 0.017*hate + 0.016*x + 0.012*house + 0.012*jam + 0.011*hard + 0.011*feel
+2015-03-04 20:18:58,148 : INFO : topic #11 (0.050): 0.022*look + 0.019*been + 0.018*same + 0.015*star + 0.012*hop + 0.011*through + 0.011*hip + 0.011*forever + 0.010*last + 0.010*whole
+2015-03-04 20:18:58,151 : INFO : topic #6 (0.050): 0.070*nigga + 0.062*bitch + 0.062*shit + 0.060*fuck + 0.054*niggas + 0.021*fuckin + 0.019*bitches + 0.018*ass + 0.013*money + 0.012*love
+2015-03-04 20:18:58,154 : INFO : topic #1 (0.050): 0.020*king + 0.018*show + 0.016*na + 0.016*big + 0.015*freak + 0.014*house + 0.013*2x + 0.011*whole + 0.010*u + 0.010*save
+2015-03-04 20:18:58,156 : INFO : topic #17 (0.050): 0.019*shit + 0.018*wake + 0.018*word + 0.017*two + 0.016*heat + 0.013*little + 0.012*room + 0.011*three + 0.010*cut + 0.010*whole
+2015-03-04 20:18:58,159 : INFO : topic #7 (0.050): 0.108*niggas + 0.037*nigga + 0.030*weed + 0.020*smoke + 0.019*shit + 0.019*high + 0.017*fuck + 0.013*gang + 0.011*gettin + 0.010*dogg
+2015-03-04 20:18:58,162 : INFO : topic #10 (0.050): 0.037*rap + 0.035*rhymes + 0.030*stop + 0.029*mic + 0.027*music + 0.020*beat + 0.020*rhyme + 0.017*rock + 0.017*hear + 0.014*people
+2015-03-04 20:18:58,164 : INFO : topic #12 (0.050): 0.034*life + 0.022*think + 0.018*little + 0.016*give + 0.016*talk + 0.015*much + 0.015*live + 0.014*feel + 0.014*people + 0.014*really
+2015-03-04 20:18:58,167 : INFO : topic #15 (0.050): 0.040*i’m + 0.026*night + 0.018*black + 0.015*party + 0.014*side + 0.014*don’t + 0.013*movin + 0.012*nothing + 0.012*everybody + 0.011*roll
+2015-03-04 20:18:58,170 : INFO : topic #19 (0.050): 0.040*name + 0.022*ass + 0.022*two + 0.019*call + 0.016*give + 0.015*dick + 0.015*shit + 0.011*lord + 0.011*bounce + 0.010*start
+2015-03-04 20:18:58,173 : INFO : topic #0 (0.050): 0.033*more + 0.012*fuck + 0.012*nothin + 0.012*baby + 0.011*fucking + 0.011*motherfucking + 0.011*call + 0.009*wasnt + 0.008*feelin + 0.008*through
+2015-03-04 20:18:58,176 : INFO : topic #16 (0.050): 0.029*life + 0.018*money + 0.018*break + 0.017*again + 0.017*tech + 0.016*wild + 0.015*brother + 0.012*big + 0.012*black + 0.012*more
+2015-03-04 20:18:58,179 : INFO : topic #9 (0.050): 0.046*nigga + 0.031*niggas + 0.030*money + 0.027*shit + 0.022*fuck + 0.016*ass + 0.015*hands + 0.015*club + 0.014*boy + 0.014*roll
+2015-03-04 20:18:58,182 : INFO : topic #3 (0.050): 0.025*gonna + 0.023*baby + 0.016*dem + 0.015*cool + 0.013*wish + 0.013*real + 0.010*check + 0.010*bring + 0.010*nah + 0.010*guy
+2015-03-04 20:18:58,184 : INFO : topic #4 (0.050): 0.024*light + 0.016*day + 0.015*sorry + 0.013*through + 0.013*dream + 0.012*fucked + 0.010*fly + 0.010*world + 0.010*job + 0.010*times
+2015-03-04 20:18:58,185 : INFO : topic diff=0.138920, rho=0.213201
+2015-03-04 20:18:58,200 : INFO : PROGRESS: pass 3, at document #2000/7229
+2015-03-04 20:18:59,650 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:18:59,753 : INFO : topic #12 (0.050): 0.034*life + 0.026*think + 0.019*little + 0.017*give + 0.016*much + 0.015*feel + 0.014*talk + 0.014*people + 0.014*live + 0.013*really
+2015-03-04 20:18:59,756 : INFO : topic #6 (0.050): 0.068*nigga + 0.065*shit + 0.064*fuck + 0.061*bitch + 0.054*niggas + 0.024*fuckin + 0.019*ass + 0.018*bitches + 0.011*money + 0.011*dick
+2015-03-04 20:18:59,759 : INFO : topic #17 (0.050): 0.020*shit + 0.019*two + 0.018*word + 0.015*little + 0.014*wake + 0.014*heat + 0.011*door + 0.010*three + 0.010*room + 0.010*cut
+2015-03-04 20:18:59,762 : INFO : topic #0 (0.050): 0.032*more + 0.020*fucking + 0.013*fuck + 0.012*baby + 0.012*motherfucking + 0.011*nothin + 0.011*call + 0.009*wasnt + 0.008*feelin + 0.008*through
+2015-03-04 20:18:59,764 : INFO : topic #3 (0.050): 0.029*gonna + 0.022*baby + 0.019*wish + 0.015*cool + 0.014*dem + 0.013*real + 0.011*check + 0.011*guy + 0.011*nah + 0.009*cry
+2015-03-04 20:18:59,767 : INFO : topic #10 (0.050): 0.041*rap + 0.033*rhymes + 0.031*mic + 0.030*stop + 0.028*music + 0.023*rhyme + 0.020*beat + 0.017*rock + 0.017*hear + 0.013*mcs
+2015-03-04 20:18:59,770 : INFO : topic #16 (0.050): 0.030*life + 0.018*again + 0.017*break + 0.016*money + 0.014*brother + 0.014*tech + 0.013*wild + 0.012*black + 0.012*more + 0.012*big
+2015-03-04 20:18:59,773 : INFO : topic #4 (0.050): 0.023*light + 0.016*through + 0.015*day + 0.013*sorry + 0.012*dream + 0.011*fucked + 0.010*world + 0.010*their + 0.009*fly + 0.009*times
+2015-03-04 20:18:59,775 : INFO : topic #5 (0.050): 0.048*nigga + 0.040*money + 0.033*shit + 0.028*niggas + 0.016*ass + 0.015*world + 0.015*hot + 0.014*fuck + 0.014*young + 0.013*cash
+2015-03-04 20:18:59,778 : INFO : topic #13 (0.050): 0.023*city + 0.020*york + 0.018*short + 0.017*hook + 0.016*hate + 0.015*x + 0.011*house + 0.011*feel + 0.011*hard + 0.011*jam
+2015-03-04 20:18:59,781 : INFO : topic #14 (0.050): 0.030*fuck + 0.024*hes + 0.022*going + 0.022*gangsta + 0.018*whats + 0.013*lookin + 0.011*xzibit + 0.011*looking + 0.011*pussy + 0.010*use
+2015-03-04 20:18:59,783 : INFO : topic #1 (0.050): 0.020*king + 0.018*show + 0.016*big + 0.016*house + 0.015*2x + 0.014*freak + 0.013*na + 0.012*repeat + 0.011*save + 0.010*whole
+2015-03-04 20:18:59,786 : INFO : topic #7 (0.050): 0.110*niggas + 0.037*nigga + 0.027*weed + 0.020*smoke + 0.019*shit + 0.019*high + 0.017*fuck + 0.012*gang + 0.010*gettin + 0.010*been
+2015-03-04 20:18:59,789 : INFO : topic #2 (0.050): 0.052*rock + 0.017*started + 0.016*ready + 0.013*remember + 0.013*funk + 0.011*number + 0.011*mama + 0.010*biz + 0.009*didnt + 0.009*tried
+2015-03-04 20:18:59,792 : INFO : topic #9 (0.050): 0.046*nigga + 0.032*niggas + 0.027*shit + 0.027*money + 0.022*fuck + 0.019*ass + 0.016*boy + 0.014*hands + 0.014*club + 0.012*roll
+2015-03-04 20:18:59,793 : INFO : topic diff=0.115878, rho=0.208514
+2015-03-04 20:18:59,807 : INFO : PROGRESS: pass 3, at document #3000/7229
+2015-03-04 20:19:01,202 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:19:01,294 : INFO : topic #12 (0.050): 0.034*life + 0.026*think + 0.018*little + 0.016*give + 0.016*people + 0.014*feel + 0.014*talk + 0.014*live + 0.014*much + 0.014*really
+2015-03-04 20:19:01,297 : INFO : topic #0 (0.050): 0.033*more + 0.019*fucking + 0.013*fuck + 0.012*motherfucking + 0.011*baby + 0.010*call + 0.010*nothin + 0.009*wasnt + 0.008*tonight + 0.008*through
+2015-03-04 20:19:01,299 : INFO : topic #10 (0.050): 0.038*rap + 0.029*music + 0.026*rhymes + 0.025*mic + 0.024*stop + 0.019*rhyme + 0.016*beat + 0.015*rock + 0.014*hear + 0.012*people
+2015-03-04 20:19:01,302 : INFO : topic #18 (0.050): 0.131*love + 0.063*girl + 0.051*baby + 0.022*girls + 0.016*feel + 0.014*ho + 0.012*shes + 0.010*pimp + 0.010*think + 0.010*please
+2015-03-04 20:19:01,305 : INFO : topic #8 (0.050): 0.103*niggas + 0.051*nigga + 0.043*shit + 0.018*real + 0.017*fuck + 0.016*hood + 0.016*die + 0.013*through + 0.012*feel + 0.012*life
+2015-03-04 20:19:01,308 : INFO : topic #3 (0.050): 0.026*gonna + 0.019*baby + 0.016*wish + 0.015*dem + 0.014*guy + 0.013*real + 0.013*cool + 0.012*bring + 0.011*nah + 0.011*check
+2015-03-04 20:19:01,312 : INFO : topic #11 (0.050): 0.023*look + 0.019*same + 0.016*been + 0.015*hop + 0.014*star + 0.012*hip + 0.011*forever + 0.011*through + 0.009*last + 0.009*whole
+2015-03-04 20:19:01,314 : INFO : topic #7 (0.050): 0.107*niggas + 0.038*nigga + 0.025*weed + 0.020*smoke + 0.019*high + 0.018*shit + 0.017*fuck + 0.011*gang + 0.011*gettin + 0.010*been
+2015-03-04 20:19:01,317 : INFO : topic #4 (0.050): 0.024*light + 0.015*sorry + 0.015*through + 0.015*day + 0.012*dream + 0.012*their + 0.011*world + 0.010*fucked + 0.009*people + 0.009*fly
+2015-03-04 20:19:01,320 : INFO : topic #2 (0.050): 0.047*rock + 0.017*started + 0.017*ready + 0.011*remember + 0.011*funk + 0.011*mama + 0.009*number + 0.009*heart + 0.008*soul + 0.008*black
+2015-03-04 20:19:01,322 : INFO : topic #5 (0.050): 0.049*nigga + 0.037*money + 0.032*shit + 0.026*niggas + 0.016*ass + 0.016*world + 0.015*hot + 0.015*young + 0.013*fuck + 0.012*cash
+2015-03-04 20:19:01,325 : INFO : topic #17 (0.050): 0.021*two + 0.020*shit + 0.017*word + 0.016*wake + 0.014*little + 0.013*heat + 0.013*three + 0.012*door + 0.010*room + 0.009*hit
+2015-03-04 20:19:01,328 : INFO : topic #6 (0.050): 0.068*nigga + 0.066*fuck + 0.066*shit + 0.058*bitch + 0.054*niggas + 0.026*fuckin + 0.020*ass + 0.017*bitches + 0.013*motherfuckin + 0.011*money
+2015-03-04 20:19:01,331 : INFO : topic #16 (0.050): 0.030*life + 0.017*money + 0.017*break + 0.017*again + 0.015*brother + 0.013*mind + 0.012*wild + 0.012*black + 0.012*more + 0.011*big
+2015-03-04 20:19:01,333 : INFO : topic #15 (0.050): 0.034*i’m + 0.022*night + 0.020*black + 0.017*side + 0.015*party + 0.014*don’t + 0.012*nothing + 0.011*west + 0.010*movin + 0.010*shot
+2015-03-04 20:19:01,335 : INFO : topic diff=0.108661, rho=0.204124
+2015-03-04 20:19:01,348 : INFO : PROGRESS: pass 3, at document #4000/7229
+2015-03-04 20:19:02,819 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:19:02,912 : INFO : topic #3 (0.050): 0.026*gonna + 0.024*baby + 0.023*cool + 0.022*dem + 0.014*wish + 0.013*ll + 0.012*guy + 0.012*real + 0.012*j + 0.011*check
+2015-03-04 20:19:02,914 : INFO : topic #1 (0.050): 0.017*king + 0.017*na + 0.016*show + 0.016*big + 0.016*lyte + 0.015*repeat + 0.013*house + 0.013*2x + 0.013*freak + 0.011*save
+2015-03-04 20:19:02,917 : INFO : topic #0 (0.050): 0.032*more + 0.018*fucking + 0.013*baby + 0.012*motherfucking + 0.012*fuck + 0.011*call + 0.009*nothin + 0.009*tonight + 0.009*stupid + 0.008*wasnt
+2015-03-04 20:19:02,920 : INFO : topic #4 (0.050): 0.024*light + 0.015*day + 0.014*sorry + 0.013*through + 0.012*diggy + 0.012*carter + 0.011*dream + 0.011*fucked + 0.011*their + 0.011*people
+2015-03-04 20:19:02,922 : INFO : topic #11 (0.050): 0.025*look + 0.019*same + 0.017*been + 0.015*hop + 0.014*weezy + 0.014*hip + 0.012*star + 0.011*different + 0.010*forever + 0.010*through
+2015-03-04 20:19:02,925 : INFO : topic #5 (0.050): 0.049*nigga + 0.044*money + 0.029*shit + 0.025*niggas + 0.020*hot + 0.019*young + 0.018*lil + 0.016*ass + 0.014*cash + 0.014*fuck
+2015-03-04 20:19:02,928 : INFO : topic #14 (0.050): 0.028*fuck + 0.027*hes + 0.024*gangsta + 0.022*going + 0.017*lookin + 0.016*whats + 0.015*pussy + 0.013*looking + 0.010*into + 0.010*ask
+2015-03-04 20:19:02,931 : INFO : topic #19 (0.050): 0.038*name + 0.025*ass + 0.022*two + 0.018*call + 0.015*give + 0.014*dick + 0.014*shit + 0.013*lord + 0.011*devil + 0.010*bullshit
+2015-03-04 20:19:02,933 : INFO : topic #2 (0.050): 0.048*rock + 0.016*ready + 0.015*started + 0.014*mama + 0.013*remember + 0.011*funk + 0.010*number + 0.010*heart + 0.010*soul + 0.009*tried
+2015-03-04 20:19:02,936 : INFO : topic #18 (0.050): 0.137*love + 0.067*girl + 0.062*baby + 0.021*girls + 0.017*ho + 0.016*feel + 0.013*shes + 0.010*pimp + 0.010*think + 0.009*please
+2015-03-04 20:19:02,938 : INFO : topic #6 (0.050): 0.070*nigga + 0.067*bitch + 0.066*fuck + 0.063*shit + 0.055*niggas + 0.024*fuckin + 0.021*ass + 0.018*bitches + 0.014*money + 0.012*motherfuckin
+2015-03-04 20:19:02,941 : INFO : topic #10 (0.050): 0.035*rap + 0.027*music + 0.025*rhymes + 0.025*stop + 0.024*mic + 0.018*rhyme + 0.018*beat + 0.016*rock + 0.016*hear + 0.015*drop
+2015-03-04 20:19:02,944 : INFO : topic #8 (0.050): 0.097*niggas + 0.052*nigga + 0.040*shit + 0.017*real + 0.017*die + 0.017*fuck + 0.016*hood + 0.013*gun + 0.012*through + 0.012*feel
+2015-03-04 20:19:02,947 : INFO : topic #7 (0.050): 0.102*niggas + 0.037*nigga + 0.023*weed + 0.019*smoke + 0.019*high + 0.018*shit + 0.016*fuck + 0.013*gang + 0.010*play + 0.010*gettin
+2015-03-04 20:19:02,949 : INFO : topic #16 (0.050): 0.026*life + 0.017*break + 0.017*money + 0.017*again + 0.013*mind + 0.013*brother + 0.012*wild + 0.012*big + 0.012*black + 0.011*more
+2015-03-04 20:19:02,950 : INFO : topic diff=0.106807, rho=0.200000
+2015-03-04 20:19:02,964 : INFO : PROGRESS: pass 3, at document #5000/7229
+2015-03-04 20:19:04,295 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:19:04,388 : INFO : topic #10 (0.050): 0.037*rap + 0.031*mic + 0.027*rhymes + 0.026*stop + 0.025*music + 0.020*rhyme + 0.018*beat + 0.016*rock + 0.016*hear + 0.014*drop
+2015-03-04 20:19:04,391 : INFO : topic #4 (0.050): 0.025*light + 0.014*day + 0.014*through + 0.012*dream + 0.012*their + 0.011*world + 0.011*sorry + 0.011*people + 0.010*fucked + 0.010*diggy
+2015-03-04 20:19:04,393 : INFO : topic #19 (0.050): 0.040*name + 0.023*ass + 0.021*two + 0.017*call + 0.014*give + 0.014*dick + 0.013*shit + 0.012*kick + 0.012*lord + 0.011*bullshit
+2015-03-04 20:19:04,397 : INFO : topic #14 (0.050): 0.028*fuck + 0.027*hes + 0.027*gangsta + 0.022*going + 0.017*whats + 0.016*lookin + 0.013*looking + 0.013*pussy + 0.010*use + 0.010*dre
+2015-03-04 20:19:04,399 : INFO : topic #13 (0.050): 0.031*york + 0.024*city + 0.019*hook + 0.017*hate + 0.013*jam + 0.012*crunk + 0.012*feel + 0.012*short + 0.010*x + 0.010*hard
+2015-03-04 20:19:04,402 : INFO : topic #9 (0.050): 0.045*nigga + 0.029*niggas + 0.028*money + 0.024*shit + 0.022*fuck + 0.019*boy + 0.019*ass + 0.017*hands + 0.013*club + 0.013*jump
+2015-03-04 20:19:04,405 : INFO : topic #11 (0.050): 0.023*look + 0.019*same + 0.018*hop + 0.017*hip + 0.015*been + 0.012*star + 0.012*weezy + 0.010*different + 0.010*through + 0.010*forever
+2015-03-04 20:19:04,407 : INFO : topic #5 (0.050): 0.048*nigga + 0.044*money + 0.029*shit + 0.024*niggas + 0.019*hot + 0.019*young + 0.017*lil + 0.015*cash + 0.015*world + 0.014*ass
+2015-03-04 20:19:04,410 : INFO : topic #2 (0.050): 0.046*rock + 0.015*ready + 0.014*started + 0.014*remember + 0.012*mama + 0.011*soul + 0.009*number + 0.009*black + 0.009*heart + 0.009*tried
+2015-03-04 20:19:04,413 : INFO : topic #15 (0.050): 0.031*i’m + 0.021*black + 0.020*night + 0.018*side + 0.014*don’t + 0.012*party + 0.012*nothing + 0.012*shot + 0.011*movin + 0.011*south
+2015-03-04 20:19:04,416 : INFO : topic #12 (0.050): 0.034*life + 0.025*think + 0.018*people + 0.017*little + 0.016*give + 0.015*feel + 0.015*live + 0.014*world + 0.013*really + 0.013*much
+2015-03-04 20:19:04,418 : INFO : topic #17 (0.050): 0.020*two + 0.020*word + 0.018*shit + 0.016*wake + 0.012*heat + 0.012*little + 0.011*three + 0.011*son + 0.010*door + 0.009*room
+2015-03-04 20:19:04,421 : INFO : topic #16 (0.050): 0.026*life + 0.018*again + 0.017*money + 0.016*break + 0.015*black + 0.014*brother + 0.013*mind + 0.013*big + 0.012*more + 0.012*wild
+2015-03-04 20:19:04,424 : INFO : topic #8 (0.050): 0.106*niggas + 0.052*nigga + 0.041*shit + 0.022*real + 0.017*hood + 0.016*fuck + 0.015*die + 0.014*through + 0.013*gun + 0.012*life
+2015-03-04 20:19:04,426 : INFO : topic #7 (0.050): 0.106*niggas + 0.036*nigga + 0.020*weed + 0.019*shit + 0.018*smoke + 0.018*high + 0.017*fuck + 0.011*gang + 0.010*real + 0.010*play
+2015-03-04 20:19:04,428 : INFO : topic diff=0.092284, rho=0.196116
+2015-03-04 20:19:04,441 : INFO : PROGRESS: pass 3, at document #6000/7229
+2015-03-04 20:19:05,846 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:19:05,945 : INFO : topic #6 (0.050): 0.077*nigga + 0.068*fuck + 0.065*bitch + 0.062*shit + 0.057*niggas + 0.022*ass + 0.022*fuckin + 0.017*bitches + 0.013*motherfuckin + 0.012*money
+2015-03-04 20:19:05,947 : INFO : topic #5 (0.050): 0.050*nigga + 0.043*money + 0.028*shit + 0.023*niggas + 0.019*hot + 0.018*young + 0.017*lil + 0.016*world + 0.014*ass + 0.014*cash
+2015-03-04 20:19:05,950 : INFO : topic #18 (0.050): 0.143*love + 0.062*girl + 0.054*baby + 0.021*girls + 0.015*ho + 0.015*feel + 0.012*shes + 0.010*mary + 0.010*think + 0.009*pimp
+2015-03-04 20:19:05,953 : INFO : topic #16 (0.050): 0.025*life + 0.017*again + 0.016*money + 0.016*break + 0.015*black + 0.014*brother + 0.014*mind + 0.013*big + 0.012*more + 0.012*livin
+2015-03-04 20:19:05,956 : INFO : topic #1 (0.050): 0.026*king + 0.018*na + 0.018*show + 0.015*house + 0.014*big + 0.013*2x + 0.012*freak + 0.012*repeat + 0.012*lyte + 0.011*save
+2015-03-04 20:19:05,958 : INFO : topic #7 (0.050): 0.102*niggas + 0.039*nigga + 0.021*dogg + 0.020*weed + 0.019*smoke + 0.018*shit + 0.017*high + 0.017*fuck + 0.010*real + 0.010*gettin
+2015-03-04 20:19:05,961 : INFO : topic #13 (0.050): 0.027*york + 0.026*city + 0.022*jam + 0.020*hook + 0.016*hate + 0.013*house + 0.011*feel + 0.010*hard + 0.010*short + 0.010*crunk
+2015-03-04 20:19:05,964 : INFO : topic #15 (0.050): 0.030*i’m + 0.021*black + 0.020*side + 0.019*night + 0.014*shot + 0.013*party + 0.012*don’t + 0.012*south + 0.012*homies + 0.011*nothing
+2015-03-04 20:19:05,967 : INFO : topic #3 (0.050): 0.025*gonna + 0.022*cool + 0.022*baby + 0.020*dem + 0.013*nah + 0.013*wish + 0.013*real + 0.013*dat + 0.011*check + 0.011*bring
+2015-03-04 20:19:05,969 : INFO : topic #2 (0.050): 0.064*rock + 0.017*funk + 0.016*ready + 0.013*started + 0.013*remember + 0.011*mama + 0.010*soul + 0.010*number + 0.009*didnt + 0.008*black
+2015-03-04 20:19:05,972 : INFO : topic #17 (0.050): 0.022*word + 0.021*two + 0.017*shit + 0.016*little + 0.014*wake + 0.013*three + 0.013*heat + 0.011*door + 0.010*son + 0.010*jay
+2015-03-04 20:19:05,975 : INFO : topic #8 (0.050): 0.105*niggas + 0.053*nigga + 0.040*shit + 0.022*real + 0.021*hood + 0.016*fuck + 0.015*die + 0.013*through + 0.013*gun + 0.012*ghetto
+2015-03-04 20:19:05,977 : INFO : topic #12 (0.050): 0.035*life + 0.024*think + 0.019*people + 0.016*little + 0.016*give + 0.015*world + 0.015*talk + 0.015*live + 0.014*feel + 0.013*much
+2015-03-04 20:19:05,982 : INFO : topic #10 (0.050): 0.036*rap + 0.031*mic + 0.027*rhymes + 0.026*stop + 0.026*music + 0.022*rhyme + 0.021*beat + 0.020*rock + 0.016*hear + 0.013*drop
+2015-03-04 20:19:05,985 : INFO : topic #4 (0.050): 0.028*light + 0.014*day + 0.013*through + 0.013*dream + 0.011*world + 0.011*people + 0.011*their + 0.010*fucked + 0.010*sorry + 0.010*times
+2015-03-04 20:19:05,987 : INFO : topic diff=0.091212, rho=0.192450
+2015-03-04 20:19:06,001 : INFO : PROGRESS: pass 3, at document #7000/7229
+2015-03-04 20:19:07,357 : INFO : merging changes from 1000 documents into a model of 7229 documents
+2015-03-04 20:19:07,446 : INFO : topic #16 (0.050): 0.026*life + 0.023*tech + 0.020*wild + 0.016*black + 0.016*money + 0.015*again + 0.013*break + 0.013*brother + 0.013*mind + 0.012*livin
+2015-03-04 20:19:07,448 : INFO : topic #1 (0.050): 0.022*king + 0.021*freak + 0.018*house + 0.017*show + 0.016*na + 0.015*big + 0.014*2x + 0.012*hort + 0.011*repeat + 0.011*save
+2015-03-04 20:19:07,451 : INFO : topic #14 (0.050): 0.032*gangsta + 0.028*hes + 0.023*fuck + 0.021*going + 0.019*snoop + 0.017*whats + 0.016*lookin + 0.016*master + 0.014*looking + 0.010*pussy
+2015-03-04 20:19:07,454 : INFO : topic #4 (0.050): 0.026*light + 0.015*day + 0.013*through + 0.012*dream + 0.012*world + 0.011*people + 0.010*sorry + 0.010*times + 0.010*their + 0.009*fucked
+2015-03-04 20:19:07,456 : INFO : topic #3 (0.050): 0.029*gonna + 0.023*baby + 0.020*cool + 0.017*dem + 0.013*real + 0.013*wish + 0.013*cry + 0.012*nah + 0.011*dat + 0.011*school
+2015-03-04 20:19:07,459 : INFO : topic #8 (0.050): 0.103*niggas + 0.054*nigga + 0.038*shit + 0.020*real + 0.019*die + 0.018*hood + 0.017*thug + 0.016*fuck + 0.014*ghetto + 0.013*life
+2015-03-04 20:19:07,462 : INFO : topic #18 (0.050): 0.141*love + 0.062*girl + 0.057*baby + 0.019*girls + 0.018*ho + 0.015*shes + 0.014*pimp + 0.014*feel + 0.010*hoes + 0.009*pimpin
+2015-03-04 20:19:07,464 : INFO : topic #7 (0.050): 0.099*niggas + 0.039*nigga + 0.019*weed + 0.018*smoke + 0.018*high + 0.017*dogg + 0.017*shit + 0.016*fuck + 0.012*gettin + 0.011*real
+2015-03-04 20:19:07,467 : INFO : topic #10 (0.050): 0.040*rap + 0.032*stop + 0.030*mic + 0.029*music + 0.025*rhymes + 0.023*beat + 0.019*rhyme + 0.019*hear + 0.018*rock + 0.014*drop
+2015-03-04 20:19:07,470 : INFO : topic #17 (0.050): 0.021*word + 0.020*two + 0.017*wake + 0.016*shit + 0.015*little + 0.013*heat + 0.012*three + 0.011*door + 0.009*son + 0.009*room
+2015-03-04 20:19:07,473 : INFO : topic #5 (0.050): 0.051*nigga + 0.047*money + 0.027*shit + 0.023*niggas + 0.019*young + 0.018*lil + 0.016*world + 0.016*hot + 0.014*cash + 0.014*ass
+2015-03-04 20:19:07,476 : INFO : topic #6 (0.050): 0.075*nigga + 0.070*bitch + 0.067*fuck + 0.058*shit + 0.053*niggas + 0.023*ass + 0.021*fuckin + 0.020*bitches + 0.013*motherfuckin + 0.012*dick
+2015-03-04 20:19:07,479 : INFO : topic #19 (0.050): 0.040*name + 0.021*call + 0.021*ass + 0.018*two + 0.016*lord + 0.015*dick + 0.015*give + 0.012*shit + 0.012*kick + 0.010*road
+2015-03-04 20:19:07,481 : INFO : topic #2 (0.050): 0.060*rock + 0.019*funk + 0.018*ready + 0.016*mama + 0.015*started + 0.013*remember + 0.011*heart + 0.010*soul + 0.009*planet + 0.009*tried
+2015-03-04 20:19:07,484 : INFO : topic #15 (0.050): 0.034*i’m + 0.022*black + 0.020*night + 0.018*side + 0.015*party + 0.014*homies + 0.014*everybody + 0.013*don’t + 0.012*homie + 0.012*shot
+2015-03-04 20:19:07,485 : INFO : topic diff=0.092013, rho=0.188982
+2015-03-04 20:19:08,167 : INFO : -7.225 per-word bound, 149.6 perplexity estimate based on a held-out corpus of 229 documents with 11131 words
+2015-03-04 20:19:08,167 : INFO : PROGRESS: pass 3, at document #7229/7229
+2015-03-04 20:19:08,456 : INFO : merging changes from 229 documents into a model of 7229 documents
+2015-03-04 20:19:08,546 : INFO : topic #4 (0.050): 0.024*light + 0.015*day + 0.014*sorry + 0.012*through + 0.011*world + 0.011*fly + 0.011*dream + 0.010*sun + 0.010*people + 0.010*times
+2015-03-04 20:19:08,549 : INFO : topic #18 (0.050): 0.140*love + 0.064*girl + 0.059*baby + 0.017*girls + 0.017*ho + 0.016*feel + 0.015*shes + 0.013*pimp + 0.012*hoes + 0.010*mary
+2015-03-04 20:19:08,552 : INFO : topic #9 (0.050): 0.042*nigga + 0.029*money + 0.026*niggas + 0.023*shit + 0.020*fuck + 0.017*boy + 0.016*hands + 0.016*ass + 0.015*roll + 0.014*club
+2015-03-04 20:19:08,554 : INFO : topic #7 (0.050): 0.105*niggas + 0.037*weed + 0.036*nigga + 0.025*smoke + 0.021*high + 0.018*shit + 0.016*fuck + 0.016*gang + 0.013*dogg + 0.013*gettin
+2015-03-04 20:19:08,557 : INFO : topic #16 (0.050): 0.027*life + 0.021*tech + 0.018*wild + 0.018*money + 0.017*break + 0.016*again + 0.016*brother + 0.015*black + 0.012*livin + 0.012*mind
+2015-03-04 20:19:08,560 : INFO : topic #2 (0.050): 0.059*rock + 0.019*ready + 0.018*started + 0.017*funk + 0.016*mama + 0.015*remember + 0.011*number + 0.011*soul + 0.010*heart + 0.010*planet
+2015-03-04 20:19:08,562 : INFO : topic #15 (0.050): 0.046*i’m + 0.026*night + 0.019*black + 0.017*side + 0.016*party + 0.016*don’t + 0.013*homie + 0.013*roll + 0.012*homies + 0.012*shot
+2015-03-04 20:19:08,565 : INFO : topic #13 (0.050): 0.029*city + 0.026*short + 0.022*hook + 0.019*york + 0.017*x + 0.016*hate + 0.015*jam + 0.014*house + 0.011*feel + 0.011*hard
+2015-03-04 20:19:08,568 : INFO : topic #8 (0.050): 0.101*niggas + 0.053*nigga + 0.041*shit + 0.019*real + 0.018*die + 0.017*hood + 0.016*fuck + 0.015*thug + 0.014*life + 0.013*through
+2015-03-04 20:19:08,571 : INFO : topic #12 (0.050): 0.038*life + 0.023*think + 0.018*much + 0.017*feel + 0.017*people + 0.016*world + 0.015*live + 0.015*give + 0.014*talk + 0.014*little
+2015-03-04 20:19:08,573 : INFO : topic #14 (0.050): 0.026*gangsta + 0.024*fuck + 0.023*hes + 0.023*going + 0.020*whats + 0.018*xzibit + 0.016*snoop + 0.015*pussy + 0.014*looking + 0.014*master
+2015-03-04 20:19:08,576 : INFO : topic #3 (0.050): 0.026*gonna + 0.021*baby + 0.020*cool + 0.017*dem + 0.014*wish + 0.012*real + 0.011*cry + 0.011*nah + 0.011*bring + 0.011*dat
+2015-03-04 20:19:08,579 : INFO : topic #6 (0.050): 0.074*nigga + 0.068*bitch + 0.065*fuck + 0.062*shit + 0.054*niggas + 0.022*fuckin + 0.021*ass + 0.021*bitches + 0.014*money + 0.012*motherfuckin
+2015-03-04 20:19:08,582 : INFO : topic #10 (0.050): 0.040*rap + 0.032*stop + 0.029*music + 0.029*mic + 0.024*rhymes + 0.022*beat + 0.019*hear + 0.018*rhyme + 0.018*rock + 0.014*drop
+2015-03-04 20:19:08,585 : INFO : topic #17 (0.050): 0.020*wake + 0.018*two + 0.018*word + 0.017*heat + 0.016*shit + 0.013*little + 0.013*room + 0.012*three + 0.011*door + 0.009*cut
+2015-03-04 20:19:08,586 : INFO : topic diff=0.088752, rho=0.185695
+2015-03-04 20:19:08,587 : INFO : saving LdaState object under /tmp/model.lda.state, separately None
+2015-03-04 20:19:08,596 : INFO : saving LdaModel object under /tmp/model.lda, separately None
+2015-03-04 20:19:08,596 : INFO : not storing attribute state
+2015-03-04 20:19:08,596 : INFO : not storing attribute dispatcher
+2015-03-05 20:01:58,571 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-03-05 20:01:58,571 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-03-05 20:01:58,571 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-03-05 20:01:58,571 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-03-05 20:01:58,622 : INFO : loading LdaModel object from /tmp/model.lda
+2015-03-05 20:01:58,720 : INFO : setting ignored attribute state to None
+2015-03-05 20:01:58,720 : INFO : setting ignored attribute dispatcher to None
+2015-03-05 20:01:58,720 : INFO : loading LdaModel object from /tmp/model.lda.state
+2015-03-08 14:02:27,879 : INFO : loaded corpus index from /tmp/corpus_data.mm.index
+2015-03-08 14:02:27,879 : INFO : initializing corpus reader from /tmp/corpus_data.mm
+2015-03-08 14:02:27,880 : INFO : accepted corpus with 7229 documents, 19916 features, 152833 non-zero entries
+2015-03-08 14:02:27,881 : INFO : loading Dictionary object from /tmp/dictionary.data
+2015-03-08 14:02:28,229 : INFO : loading LdaModel object from /tmp/model.lda
+2015-03-08 14:02:28,639 : INFO : setting ignored attribute state to None
+2015-03-08 14:02:28,640 : INFO : setting ignored attribute dispatcher to None
+2015-03-08 14:02:28,640 : INFO : loading LdaModel object from /tmp/model.lda.state
