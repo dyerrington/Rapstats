@@ -18,3 +18,8 @@ I want to know if topics or theme found in a broad genre of music, hiphop, are s
 * Songs in topic
 
 Last summer I scraped lyrics from a variety of web sources, general artist meta-data (Wikipedia), geolocation of artists, preprocessed quite a bit of data removing stop words.
+
+## Presentation
+
+[<img src="http://snag.gy/xHvGW.jpg">](http://goo.gl/VtNFrI)
+[<img src="http://snag.gy/huGiO.jpg">](http://goo.gl/VtNFrI)
