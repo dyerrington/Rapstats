@@ -23,3 +23,7 @@ Last summer I scraped lyrics from a variety of web sources, general artist meta-
 
 [<img src="http://snag.gy/xHvGW.jpg">](http://goo.gl/VtNFrI)
 [<img src="http://snag.gy/huGiO.jpg">](http://goo.gl/VtNFrI)
+
+## LDA Explorer
+
+A few people have asked about my wrapper for Gesim.  I've moved it to it's own repo here:  <a href="https://github.com/dyerrington/LDAExplorer">LDA Explorer</a>
